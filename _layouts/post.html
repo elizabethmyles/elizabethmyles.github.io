@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article id="main">
+	<header>
+		<h2>{{ page.title }}</h2>
+		{% if site.reading_time %}
+		<p style="font-size:0.6em">
+			<span class="fa fa-clock-o"></span>
+			<em>{% include read-time.html %}</em>
+		</p><!-- /.entry-reading-time -->
+		{% endif %}
+	</header>
+	{% include breadcrumb.html %}
+	<section class="wrapper style5">
+		<div class="inner">
+			<p class="image right"><a {% if page.categories contains 'novels' %}href="/buy/"{% else %}href="{{ page.buy_url }}" target="_blank"{% endif %}>
+				<img src="/images/{{ page.image }}" alt="{{ page.title}} Cover" /></a>
+			</p>
+			<h2>{{ post.title}}</h2>
+			{{ content }}
+		</div>
+	</section>
+</article>

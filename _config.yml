@@ -1,0 +1,30 @@
+# Site settings
+title: Elizabeth Myles
+description: |
+  a writer from Texas
+owner: Elizabeth Myles # or company name
+first_published: 2011 # if migrating another site, the year of your first publish
+email: elizabeth@mylesandmyles.info
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.elizabethmyles.com" # the base hostname & protocol for your site
+
+social:
+  email: /contact/
+  amazon: https://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY
+  facebook-official: https://facebook.com/elizabethmyleswrites
+  tumblr-square: http://fearandlaundry.mylesandmyles.info/
+  tumblr: http://elizabeth.mylesandmyles.info/
+  wordpress: http://mylesaweek.wordpress.com/
+  pinterest: http://pinterest.com/tangentuniverse
+ 
+# Build settings
+reading_time:       true
+words_per_minute:   200
+permalink: /:categories/:title/
+
+# Google services
+google_analytics: UA—15892472-11
+
+markdown: kramdown
+#sass:
+#  style: compressed

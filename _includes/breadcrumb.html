@@ -1,0 +1,14 @@
+<span class="breadcrumb" id="nav">
+<a href="{{ site.baseurl }}/">Home</a>{%
+  if page.layout == 'page' or page.layout == 'category' %}
+  &raquo; {{ page.title }} {%
+  elsif page.layout == 'post' %}{%
+    assign lastcat = page.categories | last %}{%
+    for cat in page.categories %}{%
+      unless page.permalink and cat == lastcat %}{%
+        capture urlstr %}{{ urlstr }}/{{ cat | slugify }}{% endcapture %}
+  &raquo; <a href="{{ site.baseurl }}{{ urlstr }}/">{{ cat }}</a> {%  endunless %}{%
+    endfor %}
+  &raquo; {{ page.title }} {%
+  endif %}
+</span>
