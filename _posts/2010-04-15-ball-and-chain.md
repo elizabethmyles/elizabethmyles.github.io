@@ -6,7 +6,7 @@ comments: false
 image: inkling_2010.jpg
 buy_url: http://www.lonestar.edu/departments/studentactivities/Inkling2010.pdf
 categories: 
-- short stories
+- short-stories
 ---
 
 ## Ball and Chain

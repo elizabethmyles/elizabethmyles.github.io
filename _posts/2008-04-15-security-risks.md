@@ -6,7 +6,7 @@ comments: false
 image: inkling_2008.jpg
 buy_url: http://www.lonestar.edu/departments/studentactivities/Inkling2008.pdf
 categories:
-- short stories
+- short-stories
 ---
 
 ## Security Risks

@@ -7,7 +7,7 @@ image: fal-book.jpg
 comments: false
 categories:
 - novels
-- fear and laundry
+- fear-and-laundry
 ---
 
 ## Fear and Laundry Excerpt

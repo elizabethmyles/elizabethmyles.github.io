@@ -6,7 +6,7 @@ image: inkling_2009.jpg
 buy_url: http://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf
 comments: false
 categories:
-- short stories
+- short-stories
 ---
 
 ## Taking Stock

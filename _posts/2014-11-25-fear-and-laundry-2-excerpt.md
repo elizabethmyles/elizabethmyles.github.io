@@ -7,7 +7,7 @@ image: fal2-ebook.jpg
 comments: false
 categories: 
 - novels 
-- fear and laundry 2
+- fear-and-laundry 2
 ---
 
 ## Fear and Laundry 2 Excerpt
