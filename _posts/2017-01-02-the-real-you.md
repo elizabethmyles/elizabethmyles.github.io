@@ -7,7 +7,7 @@ comments: false
 categories: novels
 ---
 
-## The Real You - Coming Soon!
+## The Real You
 
 **Her best friend is the hottest guy in school...**
 
@@ -46,11 +46,11 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 characters from, Elizabeth’s previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
 {: }
  
-- [excerpt][excerpt]{: class="button icon fa-book disabled"}
-- [buy][buy]{: class="button special disabled"}
+- [excerpt][excerpt]{: class="button icon fa-book"}
+- [buy][buy]{: class="button special"}
 {: .actions}
 
-[excerpt]:#
+[excerpt]:/novels/the-real-you/excerpt/
 [buy]:/buy/
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/

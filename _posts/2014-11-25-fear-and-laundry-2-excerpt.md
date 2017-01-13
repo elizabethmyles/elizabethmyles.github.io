@@ -20,7 +20,7 @@ The following excerpt is from my latest book, [*Fear and Laundry 2*][about]. It 
 
 Enjoy!
 
-[1]
+#### Chapter 1
 
 Jake Mlinarich and I were alone together in the back of his van, parked behind the club where his band, Good Television, was scheduled to go on stage soon. He touched my hand and looked over at me, a lock of his rust colored hair slipping down over one of his blue-gray eyes. “Nic,” he said, “there’s something I want to give you.”
 
@@ -224,7 +224,7 @@ But instead of hurrying off to meet up with the rest of his band, Jake stayed wh
 
 Before I could finish, he was gathering me to him again, touching my chin, tilting my face up to meet his. “Let ’em wait,” he declared and kissed me again.
 
-[2]
+#### Chapter 2
 
 Ever since Lynch’s had closed back in September, Good Television—or Good TV, as they were starting to be called around town—had had to take gigs wherever they could find them. The place they were playing tonight, The Black Box, was in the seedier part of downtown Carreen and had a bad reputation. Fights broke out there all the time, and the management was known for giving bands the runaround when it came time to pay them. But at least it was all ages. I’d be able to get in without any hassle.
 

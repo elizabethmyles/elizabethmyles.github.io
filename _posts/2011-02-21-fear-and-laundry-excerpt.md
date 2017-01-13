@@ -18,7 +18,7 @@ categories:
 
 The following excerpt is from [*Fear and Laundry*][about], [available now][buy].
 
-[1]
+#### Chapter 1
 
 When I was in high school, I spent a lot of time hanging out at a Laundromat. I know that sounds weird, but hear me out. It wasn’t just any Laundromat. It was called Lynch’s and the old guy who owned it, Roy Connor, had bought the coffee shop next door to it, cut a door between the two spaces, and turned the place into one giant, Laundromat-slash-coffee-shop hybrid. Then he’d installed some video games, put in a couple of pool tables, and built a stage in the back so all the local punk bands could play there on the weekends.
 
@@ -432,7 +432,7 @@ Outside, the storm was dying down but hadn’t completely abated. We crossed the
 
 
 
-[2]
+#### Chapter 2
 
 My mother was at work and I was home alone when Lia called me the next day. I told her I didn’t feel like hanging out. When she insisted on coming over anyway, I told her I’d leave the front door unlocked so she could let herself in.
 
@@ -646,7 +646,7 @@ Sure enough, Lia’s lip curled in distaste. “As if. It’s bad enough I have 
 
   
 
-[3] 
+#### 3 
 
 Lia lived in a nicer part of town than I did, although not as nice as her family could’ve afforded. That’s because John and Elyse Mlinarich had first moved into their house when Jake was only two years old and Lia had just been born. Back then, John still worked for someone else, managing one of the less popular grocery stores in town. By the time he’d bought the store, changed the name to Paper or Plastic, and expanded it into a prosperous chain a few years later, the Mlinarichs were too settled in their neighborhood to want to leave. So despite the money they now had, they still lived in a modest, three bedroom house with a small yard and a two car garage.
 

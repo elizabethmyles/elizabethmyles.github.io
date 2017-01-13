@@ -7,8 +7,7 @@
     for cat in page.categories %}{%
       unless page.permalink and cat == lastcat %}{%
         capture urlstr %}{{ urlstr }}/{{ cat | slugify }}{% endcapture %}
-  &raquo; <a href="{{ site.baseurl }}{{ urlstr }}/">{{ cat | replace: "-", " " }}</a> {%  endunless %}{%
-    endfor %}
+  &raquo; <a href="{{ site.baseurl }}{{ urlstr }}/">{{ cat | replace: "-", " " }}</a> {%  endunless %}{% endfor %}
   &raquo; {{ page.title }} {%
   endif %}
 </span>
