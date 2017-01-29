@@ -14,8 +14,8 @@ layout: default
 	{% include breadcrumb.html %}
 	<section class="wrapper style5">
 		<div class="inner">
-			<p class="image right"><a {% if page.categories contains 'novels' %}href="/buy/"{% else %}href="{{ page.buy_url }}" target="_blank"{% endif %}>
-				<img src="/images/{{ page.image }}" alt="{{ page.title}} Cover" /></a>
+			<p class="image right"><a href="{{ page.buy_url }}" target="_blank">
+				<img src="/images/{{ page.image }}" alt="{{ page.title }} Cover" /></a>
 			</p>
 			<h2>{{ post.title}}</h2>
 			{{ content }}

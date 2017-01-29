@@ -4,6 +4,7 @@ title:  Fear and Laundry 2
 date:   2014-11-25
 comments: false
 image: fal2-cover.jpg
+buy_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 categories:
 - novels
 ---
@@ -31,4 +32,4 @@ And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwe
 {: .actions}
 
 [excerpt]:/novels/fear-and-laundry-2/excerpt/
-[buy]:/buy/
+[buy]:http://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20

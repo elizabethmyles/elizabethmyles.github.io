@@ -3,6 +3,7 @@ layout: post
 title:  The Real You
 date:   2017-01-02
 image: tru-cover.jpg
+buy_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 comments: false
 categories: novels
 ---
@@ -51,6 +52,6 @@ characters from, Elizabeth’s previous novels, [*Fear and Laundry*][fal] and [*
 {: .actions}
 
 [excerpt]:/novels/the-real-you/excerpt/
-[buy]:/buy/
+[buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/

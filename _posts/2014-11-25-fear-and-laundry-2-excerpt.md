@@ -4,6 +4,7 @@ title:  Fear and Laundry 2 Excerpt
 slug: excerpt
 date:   2014-11-25
 image: fal2-ebook.jpg
+buy_url: http://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
 comments: false
 categories: 
 - novels 
@@ -450,4 +451,4 @@ From my seat, I had a great view of it landing on her sweaty chest and sliding d
 
 [fal]:/novels/fear-and-laundry/
 [about]:/novels/fear-and-laundry-2/
-[buy]:/buy/
+[buy]:http://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20

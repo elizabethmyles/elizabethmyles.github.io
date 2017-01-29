@@ -4,6 +4,7 @@ title:  The Real You Excerpt
 slug: excerpt
 date:   2017-01-11
 image: tru-book.jpg
+buy_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 comments: false
 categories: 
 - novels 
@@ -527,4 +528,4 @@ Clinton, looking mortified, held out his hand. “Can I please have my phone bac
 {: .actions}
 
 [about]:/novels/the-real-you/
-[buy]:/buy/
+[buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
