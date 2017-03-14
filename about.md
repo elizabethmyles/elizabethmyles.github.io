@@ -24,6 +24,7 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 - [Amazon][amazon]{: target="_blank"}
 - [Facebook][facebook]{: target="_blank"}
 - [Goodreads][goodreads]{: target="_blank"}
+- [Instagram][instagram]{: target="_blank"}
 - [LibraryThing][librarything]{: target="_blank"}
 - [Pinterest][pinterest]{: target="_blank"}
 - [Tumblr (book-related)][tumblr]{: target="_blank"}
@@ -43,6 +44,7 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 [amazon]:http://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY/
 [facebook]:http://www.facebook.com/elizabethmyleswrites
 [goodreads]:http://www.goodreads.com/tangentuniverse
+[instagram]:https://www.instagram.com/mrs.elizabethmyles/
 [librarything]:http://www.librarything.com/author/myleselizabeth
 [pinterest]:https://www.pinterest.com/tangentuniverse/
 [tumblr]:http://fearandlaundry.mylesandmyles.info/
