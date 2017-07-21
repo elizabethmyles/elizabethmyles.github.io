@@ -14,7 +14,8 @@ categories:
 ## The Real You Excerpt
 
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
+- [buy (print)][buy2]{: class="button special"}
 {: .actions}
 
 #### Chapter One
@@ -524,8 +525,10 @@ Maddison made a face. “Do you guys hear something?” she asked Rourke and Dal
 Clinton, looking mortified, held out his hand. “Can I please have my phone back?” 
  
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
+- [buy (print)][buy2]{: class="button special"}
 {: .actions}
 
 [about]:/novels/the-real-you/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
+[buy2]:http://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
