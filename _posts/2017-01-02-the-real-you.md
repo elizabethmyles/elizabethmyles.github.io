@@ -38,7 +38,6 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 - It is a lighthearted contemporary YA romance written in third person, and follows both Rourke’s and Dallas’s points of view.
 - There is no cliffhanger ending. 
 - It contains PG-13-rated content (mild cursing, kissing).
-- There is no cliff-hanger ending.
 {: }
 
 **ASSOCIATED TITLES**
@@ -46,7 +45,10 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 - While *The Real You* may be enjoyed on its own as a **stand-alone novel**, it shares a setting with, and features some 
 characters from, Elizabeth’s previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
 {: }
- 
+
+{% include giveaway.html %}
+<br />
+
 - [excerpt][excerpt]{: class="button icon fa-book"}
 - [buy (kindle)][buy]{: class="button special"}
 - [buy (print)][buy2]{: class="button special"}

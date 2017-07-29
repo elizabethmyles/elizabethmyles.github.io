@@ -17,7 +17,7 @@ categories:
 
 *“It means I have no idea what I’m doing!” I said. “Books and movies always end with ‘happily ever after.’ You know, right when the relationship’s getting started? I don’t know what’s supposed to come after that. And judging by how things are going with Jake so far, I’m not doing a very good job of winging it…”*
 
-Veronica’s having a busy senior year. When she’s not at school or working at the Maribel Movie Palace, she’s writing concert reviews for her zine, The Blank Slate, or helping her best friend, Lia, entertain her new famous friend, Clyde Kameron. She’s even designing special effects for Lia’s boyfriend, Jonathan’s, indie horror film.
+Veronica’s having a busy senior year. When she’s not at school or working at the Maribel Movie Palace, she’s writing concert reviews for her zine, *The Blank Slate*, or helping her best friend, Lia, entertain her new famous friend, Clyde Kameron. She’s even designing special effects for Lia’s boyfriend, Jonathan’s, indie horror film.
 
 And oh, yeah, she’s also dating her first-ever boyfriend, Jake—a sweet, smart, amazingly gifted musician who seems completely serious about her. So serious, he’s already talking about spending the rest of his life with her. But after her parents’ messy divorce, Veronica’s not so sure she believes in “happily ever after,” or that she has the relationship know-how to make it happen.
 
