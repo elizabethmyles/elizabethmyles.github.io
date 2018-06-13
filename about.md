@@ -40,7 +40,7 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014
 [fal]:/novels/fear-and-laundry/
 [email]:mailto:elizabeth(at)mylesandmyles.info
-[aboutme]:https:/about.me/emyles
+[aboutme]:https://about.me/emyles
 [amazon]:http://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY/
 [facebook]:http://www.facebook.com/elizabethmyleswrites
 [goodreads]:http://www.goodreads.com/tangentuniverse
