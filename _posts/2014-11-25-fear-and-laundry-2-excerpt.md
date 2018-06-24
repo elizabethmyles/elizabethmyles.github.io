@@ -451,4 +451,4 @@ From my seat, I had a great view of it landing on her sweaty chest and sliding d
 
 [fal]:/novels/fear-and-laundry/
 [about]:/novels/fear-and-laundry-2/
-[buy]:http://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+[buy]:https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20

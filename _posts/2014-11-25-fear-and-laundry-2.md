@@ -32,4 +32,4 @@ And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwe
 {: .actions}
 
 [excerpt]:/novels/fear-and-laundry-2/excerpt/
-[buy]:http://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+[buy]:https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20

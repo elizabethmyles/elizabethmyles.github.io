@@ -531,4 +531,4 @@ Clinton, looking mortified, held out his hand. "Can I please have my phone back?
 
 [about]:/novels/the-real-you/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
-[buy2]:http://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
+[buy2]:https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20

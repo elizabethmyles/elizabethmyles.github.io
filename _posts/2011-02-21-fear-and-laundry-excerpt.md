@@ -4,7 +4,7 @@ title:  Fear and Laundry Excerpt
 slug: excerpt
 date:   2011-02-21
 image: fal-book.jpg
-buy_url: http://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 comments: false
 categories:
 - novels
@@ -970,5 +970,5 @@ She jumped up and stalked straight toward me. "Yeah, well, I'm sure Jake's got a
 {: .actions}
 
 [about]:/novels/fear-and-laundry/
-[buy]:http://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
-[buy2]:http://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
+[buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+[buy2]:https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20

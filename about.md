@@ -41,12 +41,12 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 [fal]:/novels/fear-and-laundry/
 [email]:mailto:elizabeth(at)mylesandmyles.info
 [aboutme]:https://about.me/emyles
-[amazon]:http://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY/
-[facebook]:http://www.facebook.com/elizabethmyleswrites
-[goodreads]:http://www.goodreads.com/tangentuniverse
+[amazon]:https://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY/
+[facebook]:https://www.facebook.com/elizabethmyleswrites
+[goodreads]:https://www.goodreads.com/tangentuniverse
 [instagram]:https://www.instagram.com/mrs.elizabethmyles/
 [librarything]:http://www.librarything.com/author/myleselizabeth
 [pinterest]:https://www.pinterest.com/tangentuniverse/
-[tumblr]:http://fearandlaundry.mylesandmyles.info/
+[tumblr]:https://fearandlaundry.mylesandmyles.info/
 [tumblr2]:http://elizabeth.mylesandmyles.info/
-[wordpress]:http://mylesaweek.wordpress.com/
+[wordpress]:https://mylesaweek.wordpress.com/

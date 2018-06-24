@@ -3,7 +3,7 @@ layout: post
 title:  Fear and Laundry
 date:   2011-02-21
 image: fal-cover.jpg
-buy_url: http://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 comments: false
 categories: novels
 ---
@@ -28,7 +28,7 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 {: .actions}
 
 [excerpt]:/novels/fear-and-laundry/excerpt/
-[buy]:http://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
-[buy2]:http://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
+[buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+[buy2]:https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014

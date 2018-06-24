@@ -53,6 +53,6 @@ characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fe
 
 [excerpt]:/novels/the-real-you/excerpt/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
-[buy2]:http://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
+[buy2]:https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
