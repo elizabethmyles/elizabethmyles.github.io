@@ -413,9 +413,7 @@ I glanced over to where April stood with a sugar shaker in her hand, looking pit
 "I know. She's such a psycho. If she weren't, like, the only decent bass player we could get on such short notice…" She bit another fry in half and gestured at the zine pages. "You know what? Forget her. Let's just finish this and get out of here before that dirt storm gets any worse."
 
  
-
- ***
-
+<pre style="text-align:center;">***</pre>
  
 
 Half an hour later, Lia and I dropped a stack of fliers and twenty-four copies of the zine at the lunch counter. As usual, we kept the twenty-fifth issue of the Slate to mail off to Clyde Kameron himself, along with a handwritten fan letter from Lia taped to the inside cover. Borrowing a felt tip pen from April, Lia scratched Clyde's address, care of his management company, onto the back of the zine and stuck a few stamps in the corner.
@@ -648,7 +646,7 @@ Sure enough, Lia's lip curled in distaste. "As if. It's bad enough I have to liv
 
   
 
-#### 3 
+#### Chapter 3 
 
 Lia lived in a nicer part of town than I did, although not as nice as her family could've afforded. That's because John and Elyse Mlinarich had first moved into their house when Jake was only two years old and Lia had just been born. Back then, John still worked for someone else, managing one of the less popular grocery stores in town. By the time he'd bought the store, changed the name to Paper or Plastic, and expanded it into a prosperous chain a few years later, the Mlinarichs were too settled in their neighborhood to want to leave. So despite the money they now had, they still lived in a modest, three bedroom house with a small yard and a two car garage.
 
