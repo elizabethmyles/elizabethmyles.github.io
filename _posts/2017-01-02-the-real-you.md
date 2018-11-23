@@ -46,8 +46,6 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
 {: }
 
-<!--{% include giveaway.html %}-->
-
 - [excerpt][excerpt]{: class="button icon fa-book"}
 - [buy (kindle)][buy]{: class="button special"}
 - [buy (print)][buy2]{: class="button special"}
