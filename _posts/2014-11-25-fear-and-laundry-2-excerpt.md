@@ -446,7 +446,7 @@ But the second one sailed right into Ariella Baker's cleavage.
 From my seat, I had a great view of it landing on her sweaty chest and sliding down into her tank top, threatening to disappear forever between those enormous boobs of hers. But then, at the last second, she fished it out and held it up, giving Jake this big, goofy—but undeniably flirtatious—grin. I saw Jake smile, too, and my heart palpitated, not in a good way. Then Good TV launched into their next song.
 
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
 {: .actions}
 
 [fal]:/novels/fear-and-laundry/

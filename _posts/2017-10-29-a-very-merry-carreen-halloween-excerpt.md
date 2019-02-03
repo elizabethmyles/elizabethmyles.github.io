@@ -178,7 +178,7 @@ Again, Rourke struggled not to laugh. If the storage room was crowded it could m
 Veronica blushed, her olive complexion darkening. She lowered her lashes demurely as she smoothed the skirt of her long, black dress. "Thank you, sweetie. You guys look so cute, too. Couples' costumes have always been my favorites."
  
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
 {: .actions}
 
 [about]:/novellas/a-very-merry-carreen-halloween/

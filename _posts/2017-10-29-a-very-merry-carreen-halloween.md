@@ -30,7 +30,7 @@ other friends suddenly receive a mysterious phone message. The text invites them
 {: }
 
 - [excerpt][excerpt]{: class="button icon fa-book"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
 {: .actions}
 
 [excerpt]:/novellas/a-very-merry-carreen-halloween/excerpt/
