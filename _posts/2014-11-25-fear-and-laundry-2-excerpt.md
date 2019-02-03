@@ -14,7 +14,7 @@ categories:
 ## Fear and Laundry 2 Excerpt
 
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
 {: .actions}
 
 The following excerpt is from my latest book, [*Fear and Laundry 2*][about]. It is the sequel to [*Fear and Laundry*][fal] and takes place two months after the end of that book. As such, it contains "spoilers." Just sayin'.

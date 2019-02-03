@@ -14,7 +14,7 @@ categories:
 ## A Very Merry Carreen Halloween Excerpt
 
 - [about][about]{: class="button"}
-- [buy][buy]{: class="button special"}
+- [buy (kindle)][buy]{: class="button special"}
 {: .actions}
 
 #### Chapter One
