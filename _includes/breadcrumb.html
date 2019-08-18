@@ -8,6 +8,6 @@
       unless page.permalink and cat == lastcat %}{%
         capture urlstr %}{{ urlstr }}/{{ cat | slugify }}{% endcapture %}
   &raquo; <a href="{{ site.baseurl }}{{ urlstr }}/">{{ cat | replace: "-", " " }}</a> {%  endunless %}{% endfor %}
-  &raquo; {{ page.title }} {%
+  &raquo; {% if page.slug == 'excerpt' %} Excerpt {% else %} {{ page.title }} {% endif %}{%
   endif %}
 </span>
