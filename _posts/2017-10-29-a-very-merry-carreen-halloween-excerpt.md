@@ -13,10 +13,7 @@ categories:
 
 ## A Very Merry Carreen Halloween Excerpt
 
-- [about][about]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-e.md %}
 
 #### Chapter One
  
@@ -178,10 +175,7 @@ Again, Rourke struggled not to laugh. If the storage room was crowded it could m
 
 Veronica blushed, her olive complexion darkening. She lowered her lashes demurely as she smoothed the skirt of her long, black dress. "Thank you, sweetie. You guys look so cute, too. Couples' costumes have always been my favorites."
  
-- [about][about]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-e.md %}
 
 [about]:/novellas/a-very-merry-carreen-halloween/
 [buy]:https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20

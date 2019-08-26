@@ -13,12 +13,7 @@ categories:
 
 ## The Real You Excerpt
 
-- [about][about]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [print][buy2]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
-
+{% include buttons-e-p.md %}
 
 #### Chapter One
  
@@ -526,11 +521,7 @@ Maddison made a face. "Do you guys hear something?" she asked Rourke and Dallas.
 
 Clinton, looking mortified, held out his hand. "Can I please have my phone back?" 
  
-- [about][about]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [print][buy2]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-e-p.md %}
 
 [about]:/novels/the-real-you/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20

@@ -27,10 +27,7 @@ Despite his apparent devotion, Veronica’s beginning to think Jake won’t real
 
 And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwell, a boy from Veronica’s past, is back in town, seemingly determined to make trouble for her.
 
-- [excerpt][excerpt]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-a.md %}
 
 [excerpt]:/novels/fear-and-laundry-2/excerpt/
 [buy]:https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20

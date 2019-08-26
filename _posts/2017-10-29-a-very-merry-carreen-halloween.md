@@ -29,10 +29,7 @@ other friends suddenly receive a mysterious phone message. The text invites them
 [*The Real You*][tru] by Elizabeth Myles, all available now.
 {: }
 
-- [excerpt][excerpt]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-a.md %}
 
 [excerpt]:/novellas/a-very-merry-carreen-halloween/excerpt/
 [buy]:https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20

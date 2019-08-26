@@ -11,11 +11,10 @@ categories:
 
 ## Security Risks
 
-"Security Risks" was featured in the [2008 issue][inkling2008]{: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
+"Security Risks" was featured in the [2008 issue][read]{: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
-- [Read][inkling2008]{: class="button special icon fa-book"}{: target="_blank"}
-{: .actions}
+{% include buttons-s.md %}
 
 <br />
 <br />
@@ -33,6 +32,6 @@ arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 <br />
 <br />
 
-[inkling2008]:http://www.lonestar.edu/departments/studentactivities/Inkling_2008.pdf
+[read]:http://www.lonestar.edu/departments/studentactivities/Inkling_2008.pdf
 [inkling]:http://www.lonestar.edu/past-inkling-issues.htm
 [lsc]:http://www.lonestar.edu/tomball.htm

@@ -11,11 +11,10 @@ categories:
 
 ## Taking Stock
 
-"Taking Stock" was the First Place Prose Winner in the [2009 issue][inkling2009]{: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
+"Taking Stock" was the First Place Prose Winner in the [2009 issue][read]{: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
-- [Read][inkling2009]{: class="button special icon fa-book"}{: target="_blank"}
-{: .actions}
+{% include buttons-s.md %}
 
 <br />
 <br />
@@ -32,6 +31,6 @@ arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 <br />
 <br />
 
-[inkling2009]:http://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf
+[read]:http://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf
 [inkling]:http://www.lonestar.edu/past-inkling-issues.htm
 [lsc]:http://www.lonestar.edu/tomball.htm

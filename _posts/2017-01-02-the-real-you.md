@@ -46,11 +46,7 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
 {: }
 
-- [excerpt][excerpt]{: class="button icon fa-book"}
-- [kindle][buy]{: class="button special icon fa-shopping-cart"}
-- [print][buy2]{: class="button special icon fa-shopping-cart"}
-- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
-{: .actions}
+{% include buttons-a-p.md %}
 
 [excerpt]:/novels/the-real-you/excerpt/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
