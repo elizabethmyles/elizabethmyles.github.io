@@ -24,6 +24,13 @@ arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 [inkling2009]:http://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf
 [inkling]:http://www.lonestar.edu/past-inkling-issues.htm

@@ -13,9 +13,10 @@ categories:
 
 ## Fear and Laundry Excerpt
 
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 The following excerpt is from [*Fear and Laundry*][about], [available now][buy].
@@ -962,11 +963,13 @@ She jumped up and stalked straight toward me. "Yeah, well, I'm sure Jake's got a
 
 "Let's go." She pushed me out into the hall. "We've got a lot of stuff to do." I looked back through the open door at Jake. He held two fingers to his forehead and then brought them back down in mock salute. I wanted to stay behind and ask him what he was doing back, if it was true he'd dropped out of school and if so, why. But Lia dragged me down the hall to her bedroom.
 
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [about]:/novels/fear-and-laundry/
 [buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 [buy2]:https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
+[goodreads]:https://www.goodreads.com/book/show/11381492-fear-and-laundry

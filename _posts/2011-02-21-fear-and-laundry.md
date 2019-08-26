@@ -23,8 +23,9 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 (*Fear and Laundry* was honored as a notable entry in the teen category of [*Shelf Unbound Magazine*][shelfunbound]’s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp].)
 
 - [excerpt][excerpt]{: class="button icon fa-book"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [excerpt]:/novels/fear-and-laundry/excerpt/
@@ -32,3 +33,4 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 [buy2]:https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014
+[goodreads]:https://www.goodreads.com/book/show/11381492-fear-and-laundry

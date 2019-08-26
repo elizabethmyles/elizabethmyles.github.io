@@ -13,10 +13,12 @@ categories:
 
 ## The Real You Excerpt
 
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
+
 
 #### Chapter One
  
@@ -524,11 +526,13 @@ Maddison made a face. "Do you guys hear something?" she asked Rourke and Dallas.
 
 Clinton, looking mortified, held out his hand. "Can I please have my phone back?" 
  
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [about]:/novels/the-real-you/
 [buy]:https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 [buy2]:https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
+[goodreads]:https://www.goodreads.com/book/show/33845214-the-real-you

@@ -13,8 +13,9 @@ categories:
 
 ## Fear and Laundry 2 Excerpt
 
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 The following excerpt is from my latest book, [*Fear and Laundry 2*][about]. It is the sequel to [*Fear and Laundry*][fal] and takes place two months after the end of that book. As such, it contains "spoilers." Just sayin'.
@@ -445,10 +446,12 @@ But the second one sailed right into Ariella Baker's cleavage.
 
 From my seat, I had a great view of it landing on her sweaty chest and sliding down into her tank top, threatening to disappear forever between those enormous boobs of hers. But then, at the last second, she fished it out and held it up, giving Jake this big, goofy—but undeniably flirtatious—grin. I saw Jake smile, too, and my heart palpitated, not in a good way. Then Good TV launched into their next song.
 
-- [about][about]{: class="button"}
-- [buy (kindle)][buy]{: class="button special"}
+- [about][about]{: class="button icon fa-book"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [fal]:/novels/fear-and-laundry/
 [about]:/novels/fear-and-laundry-2/
 [buy]:https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+[goodreads]:https://www.goodreads.com/book/show/24367903-fear-and-laundry-2

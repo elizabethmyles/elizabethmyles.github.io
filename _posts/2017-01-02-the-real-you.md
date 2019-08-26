@@ -47,8 +47,9 @@ characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fe
 {: }
 
 - [excerpt][excerpt]{: class="button icon fa-book"}
-- [buy (kindle)][buy]{: class="button special"}
-- [buy (print)][buy2]{: class="button special"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [print][buy2]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [excerpt]:/novels/the-real-you/excerpt/
@@ -56,3 +57,4 @@ characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fe
 [buy2]:https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
+[goodreads]:https://www.goodreads.com/book/show/33845214-the-real-you

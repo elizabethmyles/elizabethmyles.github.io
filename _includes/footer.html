@@ -6,13 +6,17 @@
     {% if socloc[0] == 'email' %}
     <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
            ><span class="label">E-mail</span></a></li>
-    {% else %}
+	{% elsif socloc[0] == 'goodreads' %}
+	<li><a target="_blank" href="https://www.goodreads.com/tangentuniverse" class="icon goodreads"><span style="font-family:sans-serif;font-size:1.4em;font-weight:lighter;">g</span></a></li>
+	{% elsif socloc[0] == 'bookbub' %}
+	<li><a target="_blank" href="https://www.bookbub.com/profile/3421192761" class="icon bookbub">BB</a></li>
+	{% else %}
     <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
            ><span class="label">{{ socloc[0] }}</span></a></li>
     {% endif %}
     {% endif %}
     {% endfor %}
-    <li><a target="_blank" class="icon goodreads" href="http://www.goodreads.com/tangentuniverse" target="_blank">g</a></li>
+    
   </ul>
   <ul class="copyright">
     <li>&copy; {% assign thisyear = site.time | date: "%Y" %}

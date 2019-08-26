@@ -30,7 +30,8 @@ other friends suddenly receive a mysterious phone message. The text invites them
 {: }
 
 - [excerpt][excerpt]{: class="button icon fa-book"}
-- [buy (kindle)][buy]{: class="button special"}
+- [kindle][buy]{: class="button special icon fa-shopping-cart"}
+- [<span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads][goodreads]{: class="button special"}
 {: .actions}
 
 [excerpt]:/novellas/a-very-merry-carreen-halloween/excerpt/
@@ -38,3 +39,4 @@ other friends suddenly receive a mysterious phone message. The text invites them
 [tru]:/novels/the-real-you/
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
+[goodreads]:https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween
