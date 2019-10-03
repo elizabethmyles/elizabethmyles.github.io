@@ -14,7 +14,7 @@ It's Halloween time in Carreen, Texas, and Rourke is enjoying the annual costume
 other friends suddenly receive a mysterious phone message. The text invites them all to another party, one being hosted at a 
 "genuine haunted house" near the cemetery across town...
 
-**MORE ABOUT THE BOOK**
+#### More About the Book
 
 - This is a complete **novella** of approximately 33,000 words (about 130 pages).
 - It is a humorous, light-hearted contemporary story written in third person, alternating between Rourke’s and Dallas’s POV.
@@ -23,10 +23,11 @@ other friends suddenly receive a mysterious phone message. The text invites them
 - The story features college-aged adults and contains mild cursing and 'fade to black' sexual content.
 {: }
 
-**ASSOCIATED TITLES**
+#### Associated Titles
 
-- The story shares a setting with, and features characters from, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], and
+- This story shares a setting with, and features characters from, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], and
 [*The Real You*][tru] by Elizabeth Myles, all available now.
+
 {: }
 
 {% include buttons-a.md %}

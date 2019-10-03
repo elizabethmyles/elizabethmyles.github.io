@@ -168,9 +168,14 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	blockquote {
 		border-left: solid 4px _palette(border);
-		font-style: italic;
+		font-family: _font(family-fixed);
 		margin: 0 0 _size(element-margin) 0;
-		padding: 0.5em 0 0.5em 2em;
+		padding: 0.5em 0 0 2em;
+	}
+
+	blockquote em {
+		font-family: _font(family);
+		font-style: normal;
 	}
 
 	code {

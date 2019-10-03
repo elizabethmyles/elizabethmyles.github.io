@@ -32,7 +32,7 @@ miles away, now that she's living right down the street from him again it seems 
 Especially with Dallas sending her so many strangely mixed messages concerning his own feelings about
 *her*...
 
-**MORE ABOUT THE BOOK**
+#### More About the Book
 
 - *The Real You* is a complete novel of approximately 80,000 words. 
 - It is a lighthearted contemporary YA romance written in third person, and follows both Rourke's and Dallas's points of view.
@@ -40,10 +40,12 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 - It contains PG-13-rated content (mild cursing, kissing).
 {: }
 
-**ASSOCIATED TITLES**
+#### Associated Titles
 
 - While *The Real You* may be enjoyed on its own as a **stand-alone novel**, it shares a setting with, and features some 
 characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
+- *The Real You* is followed by the novella [*A Very Merry Carreen Halloween*][vmch].
+
 {: }
 
 {% include buttons-a-p.md %}
@@ -54,3 +56,4 @@ characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fe
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
 [goodreads]:https://www.goodreads.com/book/show/33845214-the-real-you
+[vmch]:/novellas/a-very-merry-carreen-halloween/

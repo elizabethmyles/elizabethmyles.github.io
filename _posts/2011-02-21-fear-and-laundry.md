@@ -22,7 +22,13 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 
 (*Fear and Laundry* was honored as a notable entry in the teen category of [*Shelf Unbound Magazine*][shelfunbound]’s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp].)
 
-{% include buttons-e.md %}
+#### Associated Titles
+
+- *Fear and Laundry* is followed by [*Fear and Laundry 2*][fal2], and shares a setting and some characters with [*The Real You*][tru].
+
+{: }
+
+{% include buttons-a.md %}
 
 [excerpt]:/novels/fear-and-laundry/excerpt/
 [buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
@@ -30,3 +36,5 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014
 [goodreads]:https://www.goodreads.com/book/show/11381492-fear-and-laundry
+[fal2]:/novels/fear-and-laundry-2/
+[tru]:/novels/the-real-you/

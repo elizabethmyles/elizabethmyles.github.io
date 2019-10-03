@@ -27,8 +27,16 @@ Despite his apparent devotion, Veronica’s beginning to think Jake won’t real
 
 And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwell, a boy from Veronica’s past, is back in town, seemingly determined to make trouble for her.
 
+#### Associated Titles
+
+- *Fear and Laundry 2* is the sequel to Elizabeth's previous novel, [*Fear and Laundry*][fal], and shares a setting and some characters with [*The Real You*][tru]. 
+
+{: }
+
 {% include buttons-a.md %}
 
 [excerpt]:/novels/fear-and-laundry-2/excerpt/
 [buy]:https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/24367903-fear-and-laundry-2
+[fal]:/novels/fear-and-laundry/
+[tru]:/novels/the-real-you/
