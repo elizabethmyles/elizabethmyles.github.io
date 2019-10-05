@@ -10,7 +10,7 @@ slug: the-real-you
     
 ## The Real You (1 Novel + 1 Novella)
 
-[*The Real You*][tru] and [*A Very Merry Carreen Halloween*][vmch] are a couple of cute and lighthearted romances .
+[*The Real You*][tru] and [*A Very Merry Carreen Halloween*][vmch] are a couple of cute and lighthearted romances.
 
 After publishing my 2nd book, [*Fear and Laundry 2*][fal2], I had no intention of writing any more books set in Carreen, TX, at least not for a while. I spent a year working on a completely different project, but when NaNoWriMo 2015 rolled around, I decided to take a break from that new book and write something else.
 
