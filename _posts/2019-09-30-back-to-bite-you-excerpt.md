@@ -585,3 +585,4 @@ keep up with his long, angry strides.
 [buy]: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328045-back-to-bite-you
 [tsk]:/novels/the-sharpest-kiss/
+[series_url]:/series/the-sharpest-kiss/

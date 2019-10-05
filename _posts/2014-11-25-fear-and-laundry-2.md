@@ -40,3 +40,4 @@ And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwe
 [goodreads]:https://www.goodreads.com/book/show/24367903-fear-and-laundry-2
 [fal]:/novels/fear-and-laundry/
 [tru]:/novels/the-real-you/
+[connected]:/connected/fear-and-laundry/

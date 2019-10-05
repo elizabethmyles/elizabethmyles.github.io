@@ -50,3 +50,4 @@ If she can save him from succumbing forever to the wicked aftereffects of THE SH
 [buy]:https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
 [btby]:/novels/back-to-bite-you/
+[connected]:/connected/the-sharpest-kiss/

@@ -22,17 +22,23 @@ This time, the girls and their friends find out just how bad things can get when
 - It is part two of a two-volume story, continuing after [*The Sharpest Kiss*][tsk].
 
 **Reader advisory:**  *Back to Bite You* includes mild cursing, alcohol consumption, vampire-related violence, and mild sensuality.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 {: }
 
 {% include buttons-a.md %}
-<br />
-<br />
-<br />
-<br />
-<br />
 
 [excerpt]:/novels/back-to-bite-you/excerpt/
 [buy]:https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328045-back-to-bite-you
 [tsk]:/novels/the-sharpest-kiss/
+[connected]:/connected/the-sharpest-kiss/

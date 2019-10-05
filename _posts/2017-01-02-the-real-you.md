@@ -57,3 +57,4 @@ characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fe
 [fal2]:/novels/fear-and-laundry-2/
 [goodreads]:https://www.goodreads.com/book/show/33845214-the-real-you
 [vmch]:/novellas/a-very-merry-carreen-halloween/
+[connected]:/connected/the-real-you/

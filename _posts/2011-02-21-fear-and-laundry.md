@@ -28,7 +28,7 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 
 {: }
 
-{% include buttons-a.md %}
+{% include buttons-a-p.md %}
 
 [excerpt]:/novels/fear-and-laundry/excerpt/
 [buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
@@ -38,3 +38,4 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 [goodreads]:https://www.goodreads.com/book/show/11381492-fear-and-laundry
 [fal2]:/novels/fear-and-laundry-2/
 [tru]:/novels/the-real-you/
+[connected]:/connected/fear-and-laundry/

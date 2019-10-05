@@ -27,7 +27,8 @@ other friends suddenly receive a mysterious phone message. The text invites them
 
 - This story shares a setting with, and features characters from, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], and
 [*The Real You*][tru] by Elizabeth Myles, all available now.
-
+<br />
+<br />
 {: }
 
 {% include buttons-a.md %}
@@ -38,3 +39,4 @@ other friends suddenly receive a mysterious phone message. The text invites them
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
 [goodreads]:https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween
+[connected]:/connected/the-real-you/
