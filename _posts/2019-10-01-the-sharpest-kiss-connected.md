@@ -27,7 +27,7 @@ Click the covers to learn more or read excerpts, and [click here][giveaway] to e
 	</div>
 </div>
 
-{% include giveaway.html %}<br />
+<!--{% include giveaway.html %}<br />-->
 
 [tsk]:/novels/the-sharpest-kiss/
 [btby]:/novels/back-to-bite-you/
