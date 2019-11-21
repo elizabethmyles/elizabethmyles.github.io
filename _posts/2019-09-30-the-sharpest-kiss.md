@@ -44,10 +44,6 @@ If she can save him from succumbing forever to the wicked aftereffects of THE SH
 
 {: }
 
-<!--
-{% include giveaway.html %}<br />
--->
-
 {% include buttons-a.md %}
 
 [excerpt]:/novels/the-sharpest-kiss/excerpt/
