@@ -18,7 +18,7 @@ This pair of short novels contain parts one and two of a complete story (althoug
 
 I don't know about you, but I personally enjoy all different varieties of romance novels and vampire books (and donuts :)). These books in particular, I would characterize as “New Adult Paranormal Romantic Comedies,” or maybe “Romantic Horror Comedies.” They’re fun, light-hearted stories intended to be fairly quick reads, and which will hopefully entertain you, warm your heart, and leave a smile on your face.
 
-Click the covers to learn more or read excerpts, and [click here][giveaway] to enter to win a free copy of *The Sharpest Kiss*.
+Click the covers to learn more or read excerpts.
 
 <div class="box">
 	<div class="row uniform 50%">
