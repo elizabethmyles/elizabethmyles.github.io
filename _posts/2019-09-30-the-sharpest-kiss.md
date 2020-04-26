@@ -32,7 +32,7 @@ If she can save him from succumbing forever to the wicked aftereffects of THE SH
 
 #### More About the Book
 
-- *The Sharpest Kiss* is a light-hearted, low-angst, non-epic paranormal romantic comedy featuring vampires.
+- *The Sharpest Kiss* is a light-hearted, non-epic paranormal romantic comedy featuring vampires.
 - It is a complete novel of approximately 75,000 words and is narrated in third person from multiple characters' points of view.
 - It is part one of two volumes but can be read as a stand-alone story.
 
