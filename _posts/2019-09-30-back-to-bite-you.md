@@ -25,16 +25,6 @@ No sweat. Jessica's convinced that she, her stake-toting best friend Lucy, and t
 - It is Book 2 in a series and takes place after [*The Sharpest Kiss*][tsk].
 
 **Reader advisory:**  *Back to Bite You* includes mild cursing, alcohol consumption, vampire-related violence, and mild sensuality.
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 {: }
 
