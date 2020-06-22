@@ -692,7 +692,9 @@ Typing rapidly, he texted her:
 
 > Hey, Ava, I'm at the Red Palm by myself, and it's feeling lonely. Any chance you can come over and meet me here?
 
-> *She texted back right away,* I thought you were meeting Neil tonight?
+She texted back right away,
+
+> I thought you were meeting Neil tonight?
 
 > **Aaron:**  Yeah, well, he had to leave all of a sudden.
 
