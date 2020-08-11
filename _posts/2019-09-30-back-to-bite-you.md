@@ -19,7 +19,7 @@ No sweat. Jessica's convinced that she, her stake-toting best friend Lucy, and t
 *Can the gang hunt down a happy ending for Jessica and Nathan, or will fate turn everything upside down? Only one thing's certain: they're about to discover that even the best-laid plans can go awry when unexpected surprises pop up...and the past comes BACK TO BITE YOU.*
 
 
-**MORE ABOUT THE BOOK**
+#### More About the Book
 
 - *Back to Bite You* is a light-hearted paranormal romantic comedy of approximately 72,000 words and is narrated in third person from multiple characters' POV.
 - It is Book 2 in a series and takes place after [*The Sharpest Kiss*][tsk].
