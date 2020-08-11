@@ -22,7 +22,7 @@ The following is an excerpt from [*Back to Bite You*][about], the sequel to [*Th
 **"Okay, Nathan, let's go over** the plan for tonight. When the bad vampire shows up, *I'll* throw a binding spell at it to
 incapacitate it," Jessica waved her hands, "and then *you'll* jump in and do your thing&mdash;"
 
-"What?" Nathan cuther off. "No. That is not going to happen. If a feral vampire makes an
+"What?" Nathan cut her off. "No. That is not going to happen. If a feral vampire makes an
 appearance here tonight, you are staying in the car. I will handle it."
 
 Now it was Jessica's turn to say, "What?"
@@ -585,4 +585,3 @@ keep up with his long, angry strides.
 [buy]: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328045-back-to-bite-you
 [tsk]:/novels/the-sharpest-kiss/
-[series_url]:/series/the-sharpest-kiss/
