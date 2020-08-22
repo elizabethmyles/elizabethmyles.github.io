@@ -21,7 +21,7 @@ categories:
 
 *Nine days before Halloween.*
 
-**The vampire glaared down at** Lucy with red and glittering
+**The vampire glared down at** Lucy with red and glittering
 eyes, his fangs glinting from a self-satisfied smirk. He had a handsome face,
 though it was pale as the moon shining above him, and his hair was long and
 lustrous, black as the midnight sky at his back. His white linen shirt gaped
