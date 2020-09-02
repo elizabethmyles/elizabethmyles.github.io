@@ -3,7 +3,7 @@ layout: post
 title:  The Sharpest Kiss Series
 date:   2019-10-01
 image: tsk-connected-covers.jpg
-buy_url: https://smile.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+buy_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
 comments: false
 categories: connected
 slug: the-sharpest-kiss
@@ -43,6 +43,6 @@ Click the covers to learn more and read excerpts.
 [tsk]:/novels/the-sharpest-kiss/
 [btby]:/novels/back-to-bite-you/
 [yd]:/novels/yesterdays-demon/
-[buy]:https://smile.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+[buy]:https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
 <!-- [giveaway]:https://www.goodreads.com/giveaway/show/298607-the-sharpest-kiss -->
 								
