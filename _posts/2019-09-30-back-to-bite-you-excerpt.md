@@ -25,8 +25,6 @@ The following is an excerpt from [*Back to Bite You*][about], the sequel to [*Th
 
 <iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07YJF5V1J&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_RcBqFbGE1PZF2&tag=fearandlaun-20" ></iframe>
 
-***
-
 This is an excerpt from [*Back to Bite You*][about], [available now]({{ page.buy_url }}).
 
 {% include buttons-e.md %}

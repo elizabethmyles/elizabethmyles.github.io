@@ -27,8 +27,6 @@ The following excerpt is from [*The Sharpest Kiss*][about], [available now]({{ p
 
 ***
 
-This is an excerpt from [*The Sharpest Kiss*][about], [available now]({{ page.buy_url }}). 
- 
 {% include buttons-e.md %}
 
 [about]:/novels/the-sharpest-kiss/
