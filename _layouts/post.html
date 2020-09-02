@@ -14,11 +14,16 @@ layout: default
 	{% include breadcrumb.html %}
 	<section class="wrapper style5">
 		<div class="inner">
-			<p class="image right">{% if page.buy_url %}<a href="{{ page.buy_url }}" target="_blank">{% endif %}
+			<p class="image right">{% if page.buy_url %}<a href="{{ page.buy_url }}" target="_blank" title="{% if page.book %}{{ page.book }}{% else %}{{ page.title }}{% endif %}">{% endif %}
 				<img src="/images/{{ page.image }}" alt="{{ page.title }} Cover" />{% if page.buy_url %}</a>{% endif %}
 			</p>
 			<h2>{{ post.title}}</h2>
 			{{ content }}
+			{% if page.connected_img %}<p class="image fit">
+				<a href="/connected/{{ page.connected_name | slugify }}/">
+					<img src="/images/{{ page.connected_img }}" alt="{{ page.connected_name }}" title="{{ page.connected_name }} series" />
+				</a>
+			</p>{% endif %}
 		</div>
 	</section>
 </article>

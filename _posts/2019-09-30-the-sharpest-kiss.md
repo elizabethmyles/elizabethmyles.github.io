@@ -4,6 +4,8 @@ title:  The Sharpest Kiss
 date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
 buy_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
+connected_name: The Sharpest Kiss
+connected_img: tsk-banner.jpg
 comments: false
 categories: novels
 ---
@@ -42,12 +44,18 @@ If she can save him from succumbing forever to the wicked aftereffects of THE SH
 
 - *The Sharpest Kiss* is followed by [*Back to Bite You*][btby], available now.
 
+#### Info
+
+**Year:**  2019  
+**Language:**  English  
+**Pages:**  215  
+**Publisher:**  Eight Oh Six/Tangential Publishing  
+**Categories:**  Fiction / Romance / New Adult / Paranormal
+
 {: }
 
 {% include buttons-a.md %}
 
 [excerpt]:/novels/the-sharpest-kiss/excerpt/
-[buy]:https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
 [btby]:/novels/back-to-bite-you/
-[connected]:/connected/the-sharpest-kiss/

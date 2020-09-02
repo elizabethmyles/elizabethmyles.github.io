@@ -1,13 +1,11 @@
 <span class="breadcrumb" id="nav">
-<a href="{{ site.baseurl }}/">Home</a>{%
-  if page.layout == 'page' or page.layout == 'category' %}
-  &raquo; {{ page.title }} {%
-  elsif page.layout == 'post' %}{%
-    assign lastcat = page.categories | last %}{%
-    for cat in page.categories %}{%
-      unless page.permalink and cat == lastcat %}{%
-        capture urlstr %}{{ urlstr }}/{{ cat | slugify }}{% endcapture %}
-  &raquo; <a href="{{ site.baseurl }}{{ urlstr }}/">{% if cat == 'connected' %} Connected Books{% else %}{{ cat | replace: "-", " " }}{% endif %}</a> {%  endunless %}{% endfor %}
-  &raquo; {% if page.slug == 'excerpt' %} Excerpt {% else %} {{ page.title }} {% endif %}{%
-  endif %}
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+<a href="/">Home</a>
+{% for crumb in crumbs offset: 1 %}
+  {% if forloop.last %}
+    &raquo; {% if crumb == 'excerpt' %} Excerpt{% else %}{{ page.title }}{% endif %}
+  {% else %}
+    &raquo; <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == 'connected' %} Connected Books{% else %}{{ crumb | replace:'-',' ' }}{% endif %}</a>
+  {% endif %}
+{% endfor %}
 </span>

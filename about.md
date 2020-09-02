@@ -9,8 +9,8 @@ slug: about
 
 ## Elizabeth Myles
 
-Elizabeth is a graduate of [Lone Star College-Tomball][lsc]{: target="_blank"} and the [University of Houston][uh]{: target="_blank"}.  Her prize-winning short fiction appeared several times 
-in [*Inkling*][inkling] the Creative Arts Magazine of LSC-Tomball, and her previous novel, [*Fear and Laundry*][fal], was honored as a notable entry in the teen 
+Elizabeth is a graduate of [Lone Star College-Tomball][lsc]{: target="_blank"} and the [University of Houston][uh]{: target="_blank"}.  Her prize-winning [short fiction][short] appeared several times 
+in [*Inkling*][inkling], the Creative Arts Magazine of LSC-Tomball, and her previous novel, [*Fear and Laundry*][fal], was honored as a notable entry in the teen 
 category of [*Shelf Unbound Magazine*][shelfunbound]{: target="_blank"}’s [Writing Competition for Best Independently Published Book][shelfunboundcomp]{: target="_blank"}. *Fear and Laundry* was
 subsequently included in a special contest issue of *Shelf Unbound Magazine* spotlighting the work of "some of today's best indie authors."
 
@@ -34,6 +34,7 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 
 [uh]:http://www.uh.edu/
 [lsc]:http://www.lonestar.edu/tomball.htm
+[short]:/short-stories/
 [inkling]:http://www.lonestar.edu/past-inkling-issues.htm
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014

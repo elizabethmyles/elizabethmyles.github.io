@@ -26,7 +26,12 @@ I loved writing [*The Real You*][tru] and I hope y'all enjoy reading it.
 
 I hope at least some of y'all will check it out and get a kick out of it.
 
-Click the covers to learn more or read excerpts.
+#### Series Order
+
+1. [*The Real You*][tru]
+2. [*A Very Merry Carreen Halloween*][vmch]
+
+Click the covers to learn more and read excerpts.
 
 <div class="box">
 	<div class="row uniform 50%">

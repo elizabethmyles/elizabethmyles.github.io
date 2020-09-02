@@ -4,6 +4,8 @@ title:  A Very Merry Carreen Halloween
 date:   2017-10-29
 image: vmch-cover.jpg
 buy_url: https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
+connected_name: The Real You
+connected_img: tru-banner.jpg
 comments: false
 categories: novellas
 ---
@@ -27,16 +29,21 @@ other friends suddenly receive a mysterious phone message. The text invites them
 
 - This story shares a setting with, and features characters from, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], and
 [*The Real You*][tru] by Elizabeth Myles, all available now.
-<br />
-<br />
+
+#### Info
+
+**Year:**  2017  
+**Language:**  English  
+**Pages:**  86  
+**Publisher:**  Eight Oh Six/Tangential Publishing  
+**Categories:**  Fiction / Romance / Young Adult / Contemporary
+
 {: }
 
 {% include buttons-a.md %}
 
 [excerpt]:/novellas/a-very-merry-carreen-halloween/excerpt/
-[buy]:https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
 [tru]:/novels/the-real-you/
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
 [goodreads]:https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween
-[connected]:/connected/the-real-you/

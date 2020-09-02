@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fear and Laundry
+title:  Fear and Laundry 1 & 2
 date:   2014-11-26
 image: fal-connected-covers.jpg
 buy_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20
@@ -15,7 +15,14 @@ slug: fear-and-laundry
 
 These novels share a setting and some characters with Elizabeth's [*The Real You* and its sequel][tru-connected].
 
-Click the covers to learn more or read excerpts.
+#### Series Order
+
+1. [*Fear and Laundry*][fal]
+2. [*Fear and Laundry 2*][fal2] 
+
+#### Series
+
+Click the covers to learn more and read excerpts.
 
 <div class="box">
 	<div class="row uniform 50%">
@@ -23,6 +30,7 @@ Click the covers to learn more or read excerpts.
 	<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry-2/"><img src="/images/fal2-cover-small.jpg" alt="Fear and Laundry 2" /></a></span></div>
 	</div>
 </div>
+{% include buttons-c.md %}
 
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/

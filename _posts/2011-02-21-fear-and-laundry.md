@@ -4,6 +4,8 @@ title:  Fear and Laundry
 date:   2011-02-21
 image: fal-cover.jpg
 buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+connected_name: Fear and Laundry
+connected_img: fal-banner.jpg
 comments: false
 categories: novels
 ---
@@ -26,16 +28,24 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 
 - *Fear and Laundry* is followed by [*Fear and Laundry 2*][fal2], and shares a setting and some characters with [*The Real You*][tru].
 
+#### Info
+
+**Year:**  2011, 2013  
+**Language:**  English  
+**Pages:**  380  
+**Print ISBN-10:** 1456575570  
+**Print ISBN-13:** 978-1456575571  
+**Publisher:**  Eight Oh Six/Tangential Publishing  
+**Categories:**  Fiction / Romance / Young Adult / Contemporary  
+
 {: }
 
 {% include buttons-a-p.md %}
 
 [excerpt]:/novels/fear-and-laundry/excerpt/
-[buy]:https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 [buy2]:https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014
 [goodreads]:https://www.goodreads.com/book/show/11381492-fear-and-laundry
 [fal2]:/novels/fear-and-laundry-2/
 [tru]:/novels/the-real-you/
-[connected]:/connected/fear-and-laundry/

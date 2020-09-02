@@ -4,6 +4,8 @@ title:  Back to Bite You
 date:   2019-09-30T00:02:00Z
 image: btby-cover.jpg
 buy_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
+connected_name: The Sharpest Kiss
+connected_img: tsk-banner.jpg
 comments: false
 categories: novels
 ---
@@ -19,19 +21,25 @@ No sweat. Jessica's convinced that she, her stake-toting best friend Lucy, and t
 *Can the gang hunt down a happy ending for Jessica and Nathan, or will fate turn everything upside down? Only one thing's certain: they're about to discover that even the best-laid plans can go awry when unexpected surprises pop up...and the past comes BACK TO BITE YOU.*
 
 
-**MORE ABOUT THE BOOK**
+#### More About the Book
 
 - *Back to Bite You* is a light-hearted paranormal romantic comedy of approximately 72,000 words and is narrated in third person from multiple characters' POV.
-- It is Book 2 in a series and takes place after [*The Sharpest Kiss*][tsk].
+- It is Book 2 in [a series](/connected/{{ page.connected_name | slugify }}/) and takes place after [*The Sharpest Kiss*][tsk].
 
 **Reader advisory:**  *Back to Bite You* includes mild cursing, alcohol consumption, vampire-related violence, and mild sensuality.
+
+#### Info
+
+**Year:**  2019  
+**Language:**  English  
+**Pages:**  201  
+**Publisher:**  Eight Oh Six/Tangential Publishing  
+**Categories:**  Fiction / Romance / New Adult / Paranormal
 
 {: }
 
 {% include buttons-a.md %}
 
 [excerpt]:/novels/back-to-bite-you/excerpt/
-[buy]:https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 [goodreads]:https://www.goodreads.com/book/show/48328045-back-to-bite-you
 [tsk]:/novels/the-sharpest-kiss/
-[connected]:/connected/the-sharpest-kiss/
