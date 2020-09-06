@@ -4,13 +4,18 @@ title:  The Real You
 date:   2017-01-02
 image: tru-cover.jpg
 buy_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
+buy_print: https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
+excerpt: /novels/the-real-you/excerpt/
+goodreads: https://www.goodreads.com/book/show/33845214-the-real-you
+pages: 366
+isbn-10: 154843356X  
+isbn-13: 978-1548433567  
+cat: Fiction / Romance / Young Adult / Contemporary
 connected_name: The Real You
 connected_img: tru-banner.jpg
 comments: false
 categories: novels
 ---
-
-## The Real You
 
 **Her best friend is the hottest guy in school...**
 
@@ -48,23 +53,6 @@ Especially with Dallas sending her so many strangely mixed messages concerning h
 characters from, Elizabeth's previous novels, [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2], also available now.
 - *The Real You* is followed by the novella [*A Very Merry Carreen Halloween*][vmch].
 
-#### Info
-
-**Year:**  2017  
-**Language:**  English  
-**Pages:**  366  
-**Print ISBN-10:**  154843356X  
-**Print ISBN-13:**  978-1548433567  
-**Publisher:**  Eight Oh Six/Tangential Publishing  
-**Categories:**  Fiction / Romance / Young Adult / Contemporary
-
-{: }
-
-{% include buttons-a-p.md %}
-
-[excerpt]:/novels/the-real-you/excerpt/
-[buy2]:https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/
-[goodreads]:https://www.goodreads.com/book/show/33845214-the-real-you
 [vmch]:/novellas/a-very-merry-carreen-halloween/

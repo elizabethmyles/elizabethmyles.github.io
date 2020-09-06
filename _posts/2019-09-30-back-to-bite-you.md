@@ -4,13 +4,15 @@ title:  Back to Bite You
 date:   2019-09-30T00:02:00Z
 image: btby-cover.jpg
 buy_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
+excerpt: /novels/back-to-bite-you/excerpt/
+goodreads: https://www.goodreads.com/book/show/48328045-back-to-bite-you
 connected_name: The Sharpest Kiss
 connected_img: tsk-banner.jpg
+pages: 201
+cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
 ---
-
-## Back to Bite You
 
 ***"Why did all the good ones have to be undead? And staunchly opposed to dating the living?"***
 
@@ -28,18 +30,4 @@ No sweat. Jessica's convinced that she, her stake-toting best friend Lucy, and t
 
 **Reader advisory:**  *Back to Bite You* includes mild cursing, alcohol consumption, vampire-related violence, and mild sensuality.
 
-#### Info
-
-**Year:**  2019  
-**Language:**  English  
-**Pages:**  201  
-**Publisher:**  Eight Oh Six/Tangential Publishing  
-**Categories:**  Fiction / Romance / New Adult / Paranormal
-
-{: }
-
-{% include buttons-a.md %}
-
-[excerpt]:/novels/back-to-bite-you/excerpt/
-[goodreads]:https://www.goodreads.com/book/show/48328045-back-to-bite-you
 [tsk]:/novels/the-sharpest-kiss/

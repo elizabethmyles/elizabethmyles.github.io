@@ -9,7 +9,7 @@ categories: connected
 slug: fear-and-laundry
 ---
     
-## Fear and Laundry (2 novels)
+### 2 novels
 
 [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2] are a couple of cute and lighthearted YA romances (the first of which was honored as a notable entry in [*Shelf Unbound Magazine*][shelfunbound]’s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp]).
 
@@ -27,10 +27,9 @@ Click the covers to learn more and read excerpts.
 <div class="box">
 	<div class="row uniform 50%">
 		<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry/"><img src="/images/fal-cover-small.jpg" alt="Fear and Laundry" /></a></span></div>
-	<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry-2/"><img src="/images/fal2-cover-small.jpg" alt="Fear and Laundry 2" /></a></span></div>
+		<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry-2/"><img src="/images/fal2-cover-small.jpg" alt="Fear and Laundry 2" /></a></span></div>
 	</div>
 </div>
-{% include buttons-c.md %}
 
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/

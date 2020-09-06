@@ -10,28 +10,8 @@ categories:
 - short-stories
 ---
 
-## Taking Stock
-
 "Taking Stock" was the First Place Prose Winner in the [2009 issue]({{ page.buy_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
-
-{% include buttons-s.md %}
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 [inkling]:http://www.lonestar.edu/past-inkling-issues.htm
 [lsc]:http://www.lonestar.edu/tomball.htm

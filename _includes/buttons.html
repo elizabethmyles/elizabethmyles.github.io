@@ -1,0 +1,11 @@
+<ul class="actions">
+{% if page.categories contains "short-stories" %}{% if page.buy_url %}<li><a href="{{ page.buy_url }}" class="button special icon fa-book" target="_blank">Read</a></li>{% endif %}
+{% elsif page.categories contains "connected" %}{% if page.buy_url %}<a href="{{ page.buy_url }}" class="button special icon fa-shopping-cart">buy series</a></li>{% endif %}
+{% else %}
+{% if page.slug == "excerpt" %}<li><a class="button icon fa-book" href="{{ page.about }}">about</a></li>{% else %}<li><a class="button icon fa-book" href="{{ page.excerpt }}">excerpt</a></li>{% endif %}
+{% if page.buy_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_url }}">kindle</a></li>{% endif %}
+{% if page.buy_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_print }}">print</a></li>{% endif %}
+{% if page.goodreads %}<li><a class="button special" href="{{ page.goodreads }}"><span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads</a></li>{% endif %}
+{% if page.connected_name %}<li><a class="button special icon fa-chain" href="/connected/{{ page.connected_name | slugify }}/">connected</a></li>{% endif %}
+{% endif %}
+</ul>

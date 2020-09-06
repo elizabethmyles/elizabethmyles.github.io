@@ -4,13 +4,15 @@ title:  Yesterday's Demon
 date:   2020-08-31T00:02:00Z
 image: yd-cover.jpg
 buy_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
+excerpt: /novels/yesterdays-demon/excerpt/
+goodreads: https://www.goodreads.com/book/show/55197927-yesterday-s-demon
 connected_name: The Sharpest Kiss
 connected_img: tsk-banner.jpg
+pages: 243
+cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
 ---
-
-## Yesterday's Demon
 
 **"Can yesterday's demon be the hero of today?"**
 
@@ -46,19 +48,5 @@ And if only his piercing green eyes and sultry kisses weren't so incredibly irre
 2.  [*Back to Bite You*][btby] (Jessica and Nathan)
 3.  *Yesterday's Demon* (Marta and Harris)
 
-#### Info
-
-**Year:**  2020  
-**Language:**  English  
-**Pages:**  243  
-**Publisher:**  Eight Oh Six/Tangential Publishing  
-**Categories:**  Fiction / Romance / New Adult / Paranormal
-
-{: }
-
-{% include buttons-a.md %}
-
-[excerpt]:/novels/yesterdays-demon/excerpt/
-[goodreads]:https://www.goodreads.com/book/show/55197927-yesterday-s-demon
 [tsk]:/novels/the-sharpest-kiss/
 [btby]:/novels/back-to-bite-you/

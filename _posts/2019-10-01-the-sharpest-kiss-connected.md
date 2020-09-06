@@ -9,9 +9,9 @@ categories: connected
 slug: the-sharpest-kiss
 ---
     
-## The Sharpest Kiss (3 novels)
+### 3 novels
 
-**Part three available now!**
+**[Part three][yd] available now!**
 
 [*The Sharpest Kiss*][tsk] and [*Back to Bite You*][btby] are a two volume low-angst, non-epic paranormal romantic comedy featuring vampires.  
 
@@ -37,8 +37,6 @@ Click the covers to learn more and read excerpts.
 		<div class="col-4"><span class="image fit"><a href="/novels/yesterdays-demon/"><img src="/images/yd-cover-small.jpg" alt="Yesterday's Demon" /></a></span></div>
 	</div>
 </div>
-{% include buttons-c.md %}
-{: }
 
 [tsk]:/novels/the-sharpest-kiss/
 [btby]:/novels/back-to-bite-you/

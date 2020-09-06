@@ -5,13 +5,15 @@ date:   2014-11-25
 comments: false
 image: fal2-cover.jpg
 buy_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+excerpt: /novels/fear-and-laundry-2/excerpt/
+goodreads: https://www.goodreads.com/book/show/24367903-fear-and-laundry-2
+pages: 279
+cat: Fiction / Romance / Young Adult / Contemporary
 connected_name: Fear and Laundry
 connected_img: fal-banner.jpg
 categories:
 - novels
 ---
-
-## Fear and Laundry 2
 
 *“I don’t know, you guys,” I said. “I’m starting to worry I’m not cut out for this relationship stuff. You know, not if it’s going to be this complicated.”*
 
@@ -33,19 +35,5 @@ And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwe
 
 - *Fear and Laundry 2* is the sequel to Elizabeth's previous novel, [*Fear and Laundry*][fal], and shares a setting and some characters with [*The Real You*][tru]. 
 
-#### Info
-
-**Year:**  2014  
-**Language:**  English  
-**Pages:**  279  
-**Publisher:**  Eight Oh Six/Tangential Publishing  
-**Categories:**  Fiction / Romance / Young Adult / Contemporary
-
-{: }
-
-{% include buttons-a.md %}
-
-[excerpt]:/novels/fear-and-laundry-2/excerpt/
-[goodreads]:https://www.goodreads.com/book/show/24367903-fear-and-laundry-2
 [fal]:/novels/fear-and-laundry/
 [tru]:/novels/the-real-you/

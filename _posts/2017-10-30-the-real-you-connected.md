@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Real You
+title:  The Real You Series
 date:   2017-10-30
 image: tru-connected-covers.jpg
 comments: false
@@ -8,7 +8,7 @@ categories: connected
 slug: the-real-you
 ---
     
-## The Real You (1 Novel + 1 Novella)
+### 1 Novel + 1 Novella
 
 [*The Real You*][tru] and [*A Very Merry Carreen Halloween*][vmch] are a couple of cute and lighthearted romances.
 
@@ -36,7 +36,7 @@ Click the covers to learn more and read excerpts.
 <div class="box">
 	<div class="row uniform 50%">
 		<div class="col-4"><span class="image fit"><a href="/novels/the-real-you/"><img src="/images/tru-cover-small.jpg" alt="The Real You" /></a></span></div>
-	<div class="col-4"><span class="image fit"><a href="/novellas/a-very-merry-carreen-halloween/"><img src="/images/vmch-cover-small.jpg" alt="A Very Merry Carreen Halloween" /></a></span></div>
+		<div class="col-4"><span class="image fit"><a href="/novellas/a-very-merry-carreen-halloween/"><img src="/images/vmch-cover-small.jpg" alt="A Very Merry Carreen Halloween" /></a></span></div>
 	</div>
 </div>
 
