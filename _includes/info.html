@@ -1,13 +1,13 @@
-{% if page.categories contains "novels" or "novellas" and page.slug != "excerpt" %}
-<h4 id="info">Info</h4>
-
-<p><strong>Year:</strong>  {% if page.year %}{{ page.year }}{% else %}{{ page.date | date: "%Y" }}{% endif %}<br />
-<strong>Language:</strong>  English<br />
-{% if page.pages %}<strong>Pages:</strong>  {{ page.pages }}<br />{% endif %}
-{% if page.print-info %}<strong>Printed format:</strong> {{ page.print-info }}{% if page.ink-paper %}, {{ page.ink-paper }}{% if page.dimensions %}, {{ page.dimensions }}{% endif %}{% if page.weight %}, {{ page.weight }}{% endif %}<br />{% endif %}{% endif %}
-{% if page.isbn-10 %}<strong>Print ISBN-10:</strong> {{ page.isbn-10 }}<br />{% endif %}
-{% if page.isbn-13 %}<strong>Print ISBN-13:</strong> {{ page.isbn-13 }}<br />{% endif %}
-<strong>Publisher:</strong>  Eight Oh Six/Tangential Publishing<br />
-{% if page.cat %}<strong>Categories:</strong>  {{ page.cat }}<br />{% endif %}
-</p>
+{% if page.cagegories contains "short-stories" or page.categories contains "connected" or page.categories contains "excerpts" %}
+{% elsif page.categories contains "novels" or page.categories contains "novellas" %}
+	<h4 id="info">Info</h4>
+	<p><strong>Year:</strong>  {% if page.year %}{{ page.year }}{% else %}{{ page.date | date: "%Y" }}{% endif %}<br />
+	<strong>Language:</strong>  English<br />
+	{% if page.pages %}<strong>Pages:</strong>  {{ page.pages }}<br />{% endif %}
+	{% if page.print-info %}<strong>Printed format:</strong> {{ page.print-info }}{% if page.ink-paper %}, {{ page.ink-paper }}{% if page.dimensions %}, {{ page.dimensions }}{% endif %}{% if page.weight %}, {{ page.weight }}{% endif %}<br />{% endif %}{% endif %}
+	{% if page.isbn-10 %}<strong>Print ISBN-10:</strong> {{ page.isbn-10 }}<br />{% endif %}
+	{% if page.isbn-13 %}<strong>Print ISBN-13:</strong> {{ page.isbn-13 }}<br />{% endif %}
+	<strong>Publisher:</strong>  Eight Oh Six/Tangential Publishing<br />
+	{% if page.cat %}<strong>Categories:</strong>  {{ page.cat }}<br />{% endif %}
+	</p>
 {% endif %}
