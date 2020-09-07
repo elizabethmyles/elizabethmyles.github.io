@@ -23,7 +23,7 @@ layout: default
 
 			{{ content }}
 			{% if page.slug == "excerpt" %}<hr />
-			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>, <a href="{{ page.buy }}">available now</a>.</p>
+			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>, <a href="{{ page.buy_url }}">available now</a>.</p>
 			{% endif %}
 			
 			{% include info.html %}
