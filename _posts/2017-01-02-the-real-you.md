@@ -10,6 +10,10 @@ goodreads: https://www.goodreads.com/book/show/33845214-the-real-you
 pages: 366
 isbn-10: 154843356X  
 isbn-13: 978-1548433567  
+print-info: Trade paperback
+ink-paper: black ink on cream paper
+dimensions: 5.25 x 0.91 x 8 inches
+weight: 1.09 lbs
 cat: Fiction / Romance / Young Adult / Contemporary
 connected_name: The Real You
 connected_img: tru-banner.jpg

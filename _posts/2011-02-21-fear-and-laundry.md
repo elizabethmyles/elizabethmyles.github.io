@@ -13,6 +13,10 @@ year: 2011, 2013
 pages: 380
 isbn-10: 1456575570
 isbn-13: 978-1456575571
+print-info: Trade paperback
+ink-paper: black ink on white paper
+dimensions: 5.25 x 0.86 x 8 inches
+weight: 1.13 lbs
 cat: Fiction / Romance / Young Adult / Contemporary
 comments: false
 categories: novels
