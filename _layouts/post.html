@@ -28,6 +28,8 @@ layout: default
 			
 			{% include info.html %}
 			
+			{% if page.giveaway %}{% include giveaway-{{ page.giveaway }}.html %}<br />{% endif %}
+			
 			{% include buttons.html %}
 			{% if page.categories contains "short-stories" %}
 			<br />

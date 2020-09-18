@@ -12,6 +12,7 @@ pages: 243
 cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
+giveaway: yd
 ---
 
 **"Can yesterday's demon be the hero of today?"**
