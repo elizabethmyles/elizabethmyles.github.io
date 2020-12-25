@@ -12,7 +12,7 @@ pages: 215
 cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
-giveaway: tsk
+<!--giveaway: tsk-->
 ---
 
 **Her handsome boss has just been turned into a vampire!**
