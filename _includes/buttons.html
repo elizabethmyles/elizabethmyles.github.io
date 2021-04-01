@@ -1,7 +1,7 @@
 <ul class="actions">
 {% if page.categories contains "short-stories" %}{% if page.buy_url %}<li><a href="{{ page.buy_url }}" class="button special icon fa-book" target="_blank">Read</a></li>{% endif %}
 {% elsif page.categories contains "connected" %}
-{% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collection }}">collection info</a></li>{% endif %}
+{% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}">collection info</a></li>{% endif %}
 {% if page.collection-buy_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-buy_url }}">buy collection</a></li>{% endif %}
 {% if page.buy_url %}<li><a href="{{ page.buy_url }}" class="button special icon fa-shopping-cart">buy series</a></li>{% endif %}
 {% else %}
