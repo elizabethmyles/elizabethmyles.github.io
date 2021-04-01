@@ -4,8 +4,8 @@ title:  Fear and Laundry 1 & 2
 date:   2014-11-26
 image: fal-connected-covers.jpg
 buy_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20
-collections: /collections/fear-and-laundry-parts-1-and-2/
-collection-buy_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20 update
+collected: /collections/fear-and-laundry-parts-1-and-2/
+collection-buy_url: https://www.amazon.com/dp/B091G3JHBT/?tag=fearandlaun-20
 comments: false
 categories: connected
 slug: fear-and-laundry
