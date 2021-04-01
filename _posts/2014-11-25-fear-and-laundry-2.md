@@ -6,6 +6,7 @@ comments: false
 image: fal2-cover.jpg
 buy_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry-2/excerpt/
+collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/24367903-fear-and-laundry-2
 pages: 279
 cat: Fiction / Romance / Young Adult / Contemporary
@@ -34,6 +35,8 @@ And Jake’s not the only one whose exes are causing headaches. Soon Layne Maxwe
 #### Associated Titles
 
 - *Fear and Laundry 2* is the sequel to Elizabeth's previous novel, [*Fear and Laundry*][fal], and shares a setting and some characters with [*The Real You*][tru]. 
+- [*Fear and Laundry*][fal] and *Fear and Laundry 2* are now available in a [collection][collection].
 
 [fal]:/novels/fear-and-laundry/
 [tru]:/novels/the-real-you/
+[collection]:/collections/fear-and-laundry-parts-1-and-2/

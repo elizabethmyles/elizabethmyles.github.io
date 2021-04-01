@@ -1,9 +1,13 @@
 {% if page.cagegories contains "short-stories" or page.categories contains "connected" or page.categories contains "excerpts" %}
-{% elsif page.categories contains "novels" or page.categories contains "novellas" %}
+{% elsif page.categories contains "novels" or page.categories contains "novellas" or page.categories contains "collections" %}
 	<h4 id="info">Info</h4>
 	<p><strong>Year:</strong>  {% if page.year %}{{ page.year }}{% else %}{{ page.date | date: "%Y" }}{% endif %}<br />
 	<strong>Language:</strong>  English<br />
-	{% if page.pages %}<strong>Pages:</strong>  {{ page.pages }}<br />{% endif %}
+	{% if page.pages %}<strong>Pages:</strong>  {% if page.pages >= 1000 %}
+	{% assign pg = page.pages | modulo:1000 %}
+	
+	{{ page.pages | divided_by:1000 }},{% if pg < 100 %}0{% endif %}{% if pg < 10 %}0{% endif %}{{ pg }}
+	{% else %}{{ page.pages }}{% endif %}<br />{% endif %}
 	{% if page.print-info %}<strong>Printed format:</strong> {{ page.print-info }}{% if page.ink-paper %}, {{ page.ink-paper }}{% if page.dimensions %}, {{ page.dimensions }}{% endif %}{% if page.weight %}, {{ page.weight }}{% endif %}<br />{% endif %}{% endif %}
 	{% if page.isbn-10 %}<strong>Print ISBN-10:</strong> {{ page.isbn-10 }}<br />{% endif %}
 	{% if page.isbn-13 %}<strong>Print ISBN-13:</strong> {{ page.isbn-13 }}<br />{% endif %}

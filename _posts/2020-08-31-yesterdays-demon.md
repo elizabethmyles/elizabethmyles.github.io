@@ -37,7 +37,7 @@ And if only his piercing green eyes and sultry kisses weren't so incredibly irre
 
 #### MORE ABOUT THE BOOK
 
-- Yesterday's Demon is a complete novel of 80,000 words.
+- *Yesterday's Demon* is a complete novel of 80,000 words.
 - It is narrated in third person from Marta's point of view.
 - It is Book 3 in the [*Sharpest Kiss series*](/connected/{{ page.connected_name | slugify }}/) but can be enjoyed as a stand-alone story.
 

@@ -6,6 +6,7 @@ image: fal-cover.jpg
 buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 buy_print: https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry/excerpt/
+collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/11381492-fear-and-laundry
 connected_name: Fear and Laundry
 connected_img: fal-banner.jpg
@@ -22,6 +23,11 @@ comments: false
 categories: novels
 ---
 
+<ul class="actions">
+
+<li><a class="button special icon fa-book" href="/fear-and-laundry-10/">Fear and Laundry 10th Anniversary Collection</a></li>
+</ul>
+
 Veronica Montez loves horror movies. Fake blood, guts, and machete-wielding maniacs don’t scare her. Real life does.
 
 She dreads folding towels in the Crawford Hotel’s creepy basement laundry for the rest of her life, but hasn’t got a clue what more to do after graduation. Even if she did, her grades suck so bad she’ll be lucky to even make it out of high school.
@@ -37,8 +43,10 @@ Really Liking Jake scares her, too, though she can’t decide if she’s more af
 #### Associated Titles
 
 - *Fear and Laundry* is followed by [*Fear and Laundry 2*][fal2], and shares a setting and some characters with [*The Real You*][tru].
+- *Fear and Laundry* and [*Fear and Laundry 2*][fal2] are now available in a [two book collection][collected].
 
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014
 [fal2]:/novels/fear-and-laundry-2/
 [tru]:/novels/the-real-you/
+[collected]:/collections/fear-and-laundry-parts-1-and-2/

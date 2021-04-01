@@ -4,6 +4,8 @@ title:  Fear and Laundry 1 & 2
 date:   2014-11-26
 image: fal-connected-covers.jpg
 buy_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20
+collections: /collections/fear-and-laundry-parts-1-and-2/
+collection-buy_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20 update
 comments: false
 categories: connected
 slug: fear-and-laundry
@@ -11,7 +13,8 @@ slug: fear-and-laundry
     
 ### 2 novels
 
-[*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2] are a couple of cute and lighthearted YA romances (the first of which was honored as a notable entry in [*Shelf Unbound Magazine*][shelfunbound]’s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp]).
+[*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2] are a couple of cute and lighthearted YA romances (the first of which was honored as a notable entry in [*Shelf Unbound Magazine*][shelfunbound]'s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp]).
+They are now available as a [two book collection](/collections/fear-and-laundry-parts-1-and-2/).
 
 These novels share a setting and some characters with Elizabeth's [*The Real You* and its sequel][tru-connected].
 
@@ -28,6 +31,7 @@ Click the covers to learn more and read excerpts.
 	<div class="row uniform 50%">
 		<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry/"><img src="/images/fal-cover-small.jpg" alt="Fear and Laundry" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novels/fear-and-laundry-2/"><img src="/images/fal2-cover-small.jpg" alt="Fear and Laundry 2" /></a></span></div>
+		<div class="col-4"><span class="image fit"><a href="/collections/fear-and-laundry-parts-1-and-2/"><img src="/images/fal-set-cover-small.jpg" alt="Fear and Laundry Parts 1 & 2" /></a></span></div>
 	</div>
 </div>
 

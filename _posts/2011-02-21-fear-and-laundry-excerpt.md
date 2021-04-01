@@ -8,6 +8,7 @@ image: fal-book.jpg
 about: /novels/fear-and-laundry/
 buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 buy_print: https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
+collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/11381492-fear-and-laundry
 connected_name: Fear and Laundry
 connected_img: fal-banner.jpg
