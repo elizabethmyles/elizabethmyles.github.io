@@ -23,11 +23,6 @@ comments: false
 categories: novels
 ---
 
-<ul class="actions">
-
-<li><a class="button special icon fa-book" href="/fear-and-laundry-10/">Fear and Laundry 10th Anniversary Collection</a></li>
-</ul>
-
 Veronica Montez loves horror movies. Fake blood, guts, and machete-wielding maniacs don’t scare her. Real life does.
 
 She dreads folding towels in the Crawford Hotel’s creepy basement laundry for the rest of her life, but hasn’t got a clue what more to do after graduation. Even if she did, her grades suck so bad she’ll be lucky to even make it out of high school.
