@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Taking Stock
-source:  <a href="https://www.lonestar.edu/inkling.htm"><em>Inkling</em></a> <a href="https://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf">2009</> - First Place Prose Winner
+source:  <a href="https://www.lonestar.edu/inkling.htm"><em>Inkling</em></a> <a href="https://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf">2009</a> - First Place Prose Winner
 date:   2009-04-15
 image: inkling_2009.jpg
 buy_url: https://www.lonestar.edu/departments/studentactivities/Inkling2009.pdf
