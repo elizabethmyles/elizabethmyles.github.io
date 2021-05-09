@@ -5,7 +5,7 @@ date:   2021-04-01T00:00:00Z
 image: fal-set-cover.jpg
 buy_url: https://www.amazon.com/dp/B091G3JHBT/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry/excerpt/
-goodreads: TBD
+goodreads: https://www.goodreads.com/book/show/57984084-fear-and-laundry-parts-1-2
 year: 2021 (contains material originally published 2011-2014)
 connected_name: Fear and Laundry
 connected_img: fal-banner.jpg

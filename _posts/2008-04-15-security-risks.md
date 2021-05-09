@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Security Risks
-source:  <a href="https://www.lonestar.edu/past-inkling-issues.htm"><em>Inkling</em></a> 2008
+source:  <a href="https://www.lonestar.edu/inkling.htm"><em>Inkling</em></a> <a href="https://www.lonestar.edu/departments/studentactivities/Inkling_2008.pdf">2008</a>
 date:   2008-04-15
 comments: false
 image: inkling_2008.jpg
-buy_url: http://www.lonestar.edu/departments/studentactivities/Inkling2008.pdf
+buy_url: https://www.lonestar.edu/departments/studentactivities/Inkling_2008.pdf
 categories:
 - short-stories
 ---
@@ -13,5 +13,5 @@ categories:
 "Security Risks" was featured in the [2008 issue]({{ page.buy_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
-[inkling]:http://www.lonestar.edu/past-inkling-issues.htm
+[inkling]:https://www.lonestar.edu/inkling.htm
 [lsc]:http://www.lonestar.edu/tomball.htm
