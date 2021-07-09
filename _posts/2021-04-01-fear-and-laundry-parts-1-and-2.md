@@ -16,11 +16,11 @@ categories: collections
 <!--giveaway: falset-->
 ---
 
-**Classic horror movies, rock music, VHS tapes, zines, and cassettes...let the teen romance of *Fear and Laundry* take you back to the ’90s.**
+**Classic horror movies, rock music, VHS tapes, zines, and cassettes...let the teen romance of *Fear and Laundry* take you back to the '90s.**
 
 It's 1994, and seventeen-year-old Veronica Montez has a few things she needs to get done fast:
 
-- Take plenty of rad pictures for the next issue of her best friend’s zine.
+- Take plenty of rad pictures for the next issue of her best friend's zine.
 - Learn how to play drums so she doesn't embarrass herself in front of everyone at her new band’s upcoming first gig.
 - Keep her grades above a C average so she can actually graduate from high school on time.
 - Get over her hopeless crush on her best friend's sexy, super talented, guitar-playing older brother.
