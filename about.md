@@ -16,7 +16,7 @@ subsequently included in a special contest issue of *Shelf Unbound Magazine* spo
 
 Elizabeth and her handsome husband, [Steve][steve], live and run together in Texas, where Elizabeth also spends her non-writing time reading, cooking and baking, 
 listening to Nine Inch Nails, and watching sci-fi and horror movies, episodes of *Supernatural*, and old DVDs of *The X-Files*.  She loves hearing from readers,
-so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and connect with her on the social networks below.
+so feel free to contact her at [elizabeth(at)mylesandmyles.info][email], subscribe to [her mailing list][mailinglist], and connect with her on the social networks below.
 
 ### Connect with Elizabeth
 
@@ -41,6 +41,7 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email] and conn
 [fal]:/novels/fear-and-laundry/
 [steve]:https://stevemyles.site/
 [email]:mailto:elizabeth(at)mylesandmyles.info
+[mailinglist]:https://elizabethmyles.com/mailing-list/
 [aboutme]:https://about.me/emyles
 [amazon]:https://www.amazon.com/Elizabeth-Myles/e/B004Q2DZBY/
 [bookbub]:https://www.bookbub.com/profile/3421192761

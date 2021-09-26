@@ -2,7 +2,7 @@
 layout: page
 title: Successfully Subscribed
 slug: success
-permalink: mailing-list/success
+permalink: mailing-list/success/
 ---
     
 ![Email List](/images/email.jpg)
