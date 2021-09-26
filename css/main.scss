@@ -738,7 +738,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	table {
 		margin: 0 0 _size(element-margin) 0;
-		width: 100%;
+		
 
 		tbody {
 			tr {
@@ -774,14 +774,14 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.alt {
 			border-collapse: separate;
-
+			
 			tbody {
 				tr {
 					td {
 						border: solid 1px _palette(border);
 						border-left-width: 0;
 						border-top-width: 0;
-
+						text-align: center;
 						&:first-child {
 							border-left-width: 1px;
 						}
