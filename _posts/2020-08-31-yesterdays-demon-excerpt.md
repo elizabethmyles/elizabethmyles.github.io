@@ -7,6 +7,7 @@ date:   2020-08-31T00:03:00Z
 image: yd-ebook.jpg
 buy_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
 about: /novels/yesterdays-demon/
+collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/55197927-yesterday-s-demon
 connected_name: The Sharpest Kiss
 connected_img: tsk-banner.jpg

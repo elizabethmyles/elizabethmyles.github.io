@@ -5,6 +5,7 @@ date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
 buy_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 excerpt: /novels/the-sharpest-kiss/excerpt/
+collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
 connected_name: The Sharpest Kiss
 connected_img: tsk-banner.jpg

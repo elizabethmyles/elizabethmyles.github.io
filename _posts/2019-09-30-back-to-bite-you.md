@@ -5,6 +5,7 @@ date:   2019-09-30T00:02:00Z
 image: btby-cover.jpg
 buy_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 excerpt: /novels/back-to-bite-you/excerpt/
+collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328045-back-to-bite-you
 connected_name: The Sharpest Kiss
 connected_img: tsk-banner.jpg

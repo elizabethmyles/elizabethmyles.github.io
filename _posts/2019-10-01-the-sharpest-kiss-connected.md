@@ -4,14 +4,16 @@ title:  The Sharpest Kiss Series
 date:   2019-10-01
 image: tsk-connected-covers.jpg
 buy_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+collected: /collections/the-sharpest-kiss-collection/
+collection-buy_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
 comments: false
 categories: connected
 slug: the-sharpest-kiss
 ---
     
-### 3 novels
+### 3 novels + Bonus Content
 
-**[Part three][yd] available now!**
+**[Collection][collection] available now!**
 
 [*The Sharpest Kiss*][tsk] and [*Back to Bite You*][btby] are a two volume low-angst, non-epic paranormal romantic comedy featuring vampires.  
 
@@ -35,6 +37,7 @@ Click the covers to learn more and read excerpts.
 		<div class="col-4"><span class="image fit"><a href="/novels/the-sharpest-kiss/"><img src="/images/tsk-cover-small.jpg" alt="The Sharpest Kiss" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novels/back-to-bite-you/"><img src="/images/btby-cover-small.jpg" alt="Back to Bite You" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novels/yesterdays-demon/"><img src="/images/yd-cover-small.jpg" alt="Yesterday's Demon" /></a></span></div>
+		<div class="col-4"><span class="image fit"><a href="/collections/the-sharpest-kiss-collection/"><img src="/images/tsk-set-cover-small.jpg" alt="The Sharpest Kiss Collection" /></a></span></div>
 	</div>
 </div>
 
@@ -42,5 +45,6 @@ Click the covers to learn more and read excerpts.
 [btby]:/novels/back-to-bite-you/
 [yd]:/novels/yesterdays-demon/
 [buy]:https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+[collection]:/collections/the-sharpest-kiss-collection/
 <!-- [giveaway]:https://www.goodreads.com/giveaway/show/298607-the-sharpest-kiss -->
 								

@@ -7,6 +7,7 @@ date:   2019-09-30T00:03:00Z
 image: btby-ebook.jpg
 buy_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 about: /novels/back-to-bite-you/
+collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328045-back-to-bite-you
 time: 34 minutes
 comments: false
