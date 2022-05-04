@@ -10,7 +10,7 @@ slug: halloween-hearts
 
 ### 5 novellas
 
-**Welcome to Hillingham Hollow,** a wholesome Texas suburb where romance abounds and real magic is rumored to be in the air. When a thirty-foot-tall violet Halloween tree appears in Town Square, announcing a special wedding, a romantic adventure begins.
+**Welcome to Hillingham Hollow, a wholesome Texas suburb where romance abounds and real magic is rumored to be in the air. When a thirty-foot-tall violet Halloween tree appears in Town Square, announcing a special wedding, a romantic adventure begins.**
 
 Twenty-year-old Autumn Joy Alejandro is getting married.
 
