@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Halloween Hearts
+title:  Halloween Hearts Series
 date:   2022-05-03
 image: halloween-hearts-connected.jpg
 comments: false
