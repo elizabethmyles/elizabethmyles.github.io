@@ -3,7 +3,7 @@ layout: post
 title:  The Sharpest Kiss Collection
 date:   2021-11-13T00:00:00Z
 image: tsk-set-cover.jpg
-buy_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
 excerpt: /novels/the-sharpest-kiss/excerpt/
 goodreads: https://www.goodreads.com/book/show/59637935-the-sharpest-kiss-collection
 year: 2021 (contains material originally published 2019-2020)

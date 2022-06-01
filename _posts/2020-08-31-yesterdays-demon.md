@@ -3,7 +3,7 @@ layout: post
 title:  Yesterday's Demon
 date:   2020-08-31T00:02:00Z
 image: yd-cover.jpg
-buy_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
 excerpt: /novels/yesterdays-demon/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/55197927-yesterday-s-demon

@@ -3,7 +3,7 @@ layout: post
 title:  Fear and Laundry
 date:   2011-02-21
 image: fal-cover.jpg
-buy_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
 buy_print: https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry/excerpt/
 collected: /collections/fear-and-laundry-parts-1-and-2/
@@ -12,8 +12,8 @@ connected_name: Fear and Laundry
 connected_img: fal-banner.jpg
 year: 2011, 2013
 pages: 380
-isbn-10: 1456575570
-isbn-13: 978-1456575571
+print-isbn-10: 1456575570
+print-isbn-13: 978-1456575571
 print-info: Trade paperback
 ink-paper: black ink on white paper
 dimensions: 5.25 x 0.86 x 8 inches

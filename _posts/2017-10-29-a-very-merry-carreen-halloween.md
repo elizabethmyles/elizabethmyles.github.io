@@ -3,7 +3,7 @@ layout: post
 title:  A Very Merry Carreen Halloween
 date:   2017-10-29
 image: vmch-cover.jpg
-buy_url: https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
 excerpt: /novellas/a-very-merry-carreen-halloween/excerpt/
 goodreads: https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween
 pages: 86

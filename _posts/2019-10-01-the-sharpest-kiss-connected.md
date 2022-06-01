@@ -3,9 +3,9 @@ layout: post
 title:  The Sharpest Kiss Series
 date:   2019-10-01
 image: tsk-connected-covers.jpg
-buy_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
 collected: /collections/the-sharpest-kiss-collection/
-collection-buy_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
+collection-kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
 comments: false
 categories: connected
 slug: the-sharpest-kiss

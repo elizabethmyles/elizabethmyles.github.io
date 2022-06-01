@@ -5,12 +5,12 @@ source:  <a href="https://www.lonestar.edu/inkling.htm"><em>Inkling</em></a> <a 
 date:   2010-04-15
 comments: false
 image: inkling_2010.jpg
-buy_url: https://www.lonestar.edu/departments/studentactivities/Inkling2010.pdf
+read_url: https://www.lonestar.edu/departments/studentactivities/Inkling2010.pdf
 categories: 
 - short-stories
 ---
 
-"Ball and Chain" was the Third Place Prose Winner (tie) in the [2010 issue]({{ page.buy_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
+"Ball and Chain" was the Third Place Prose Winner (tie) in the [2010 issue]({{ page.kindle_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
 [inkling]:https://www.lonestar.edu/inkling.htm

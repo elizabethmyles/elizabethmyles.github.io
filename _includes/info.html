@@ -8,9 +8,10 @@
 	
 	{{ page.pages | divided_by:1000 }},{% if pg < 100 %}0{% endif %}{% if pg < 10 %}0{% endif %}{{ pg }}
 	{% else %}{{ page.pages }}{% endif %}<br />{% endif %}
+	{% if page.ebook-isbn-13 %}<strong>eBook ISBN-13:</strong> {{ page.ebook-isbn-13 }}<br />{% endif %}
 	{% if page.print-info %}<strong>Printed format:</strong> {{ page.print-info }}{% if page.ink-paper %}, {{ page.ink-paper }}{% if page.dimensions %}, {{ page.dimensions }}{% endif %}{% if page.weight %}, {{ page.weight }}{% endif %}<br />{% endif %}{% endif %}
-	{% if page.isbn-10 %}<strong>Print ISBN-10:</strong> {{ page.isbn-10 }}<br />{% endif %}
-	{% if page.isbn-13 %}<strong>Print ISBN-13:</strong> {{ page.isbn-13 }}<br />{% endif %}
+	{% if page.print-isbn-10 %}<strong>Print ISBN-10:</strong> {{ page.print-isbn-10 }}<br />{% endif %}
+	{% if page.print-isbn-13 %}<strong>Print ISBN-13:</strong> {{ page.print-isbn-13 }}<br />{% endif %}
 	<strong>Publisher:</strong>  Eight Oh Six/Tangential Publishing<br />
 	{% if page.cat %}<strong>Categories:</strong>  {{ page.cat }}<br />{% endif %}
 	</p>

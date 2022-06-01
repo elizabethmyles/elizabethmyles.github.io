@@ -14,16 +14,19 @@ layout: default
 	{% include breadcrumb.html %}
 	<section class="wrapper style5">
 		<div class="inner">
-			<p class="image right">{% if page.buy_url %}<a href="{{ page.buy_url }}" target="_blank" title="{% if page.book %}{{ page.book }}{% else %}{{ page.title }}{% endif %}">{% endif %}
-				<img src="/images/{{ page.image }}" alt="{{ page.title }} Cover" />{% if page.buy_url %}</a>{% endif %}
+			<p class="image right">{% if page.kindle_url or page.read_url or page.about %}
+			<a href="{% if page.about %}{{ page.about }}{% elsif page.kindle_url %}{{ page.kindle_url }}{% elsif page.read_url %}{{ page.read_url }}{% endif %}" target="_blank" title="{% if page.book %}{{ page.book }}{% else %}{{ page.title }}{% endif %}">{% endif %}
+				<img src="/images/{{ page.image }}" alt="{{ page.title }} Cover" />{% if page.kindle_url or page.read_url or page.about %}</a>{% endif %}
 			</p>
+			
+
 			<h2>{{ page.title}}</h2>
 
 			{% if page.slug == "excerpt" %}{% include buttons.html %}{% endif %}
 
 			{{ content }}
 			{% if page.slug == "excerpt" %}<hr />
-			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>, <a href="{{ page.buy_url }}">available now</a>.</p>
+			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>.</p>
 			{% endif %}
 			
 			{% include info.html %}
@@ -31,7 +34,8 @@ layout: default
 			{% if page.giveaway %}{% include giveaway-{{ page.giveaway }}.html %}<br />{% endif %}
 			
 			{% include buttons.html %}
-			{% if page.categories contains "short-stories" %}
+			{% if page.categories contains "short-stories-full-text" %}
+			{% elsif page.categories contains "short-stories" %}
 			<br />
 			<br />
 			<br />

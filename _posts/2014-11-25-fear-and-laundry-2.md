@@ -4,7 +4,7 @@ title:  Fear and Laundry 2
 date:   2014-11-25
 comments: false
 image: fal2-cover.jpg
-buy_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry-2/excerpt/
 collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/24367903-fear-and-laundry-2

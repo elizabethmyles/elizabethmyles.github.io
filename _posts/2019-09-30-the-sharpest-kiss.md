@@ -3,7 +3,7 @@ layout: post
 title:  The Sharpest Kiss
 date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
-buy_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 excerpt: /novels/the-sharpest-kiss/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
@@ -38,7 +38,7 @@ If she can save him from succumbing forever to the wicked aftereffects of THE SH
 
 #### More About the Book
 
-- *The Sharpest Kiss* is a light-hearted, non-epic paranormal romantic comedy featuring vampires.
+- *The Sharpest Kiss* is a light-hearted, paranormal romantic comedy featuring vampires.
 - It is a complete novel of approximately 75,000 words and is narrated in third person from multiple characters' points of view.
 - It is part one of two volumes but can be read as a stand-alone story.
 

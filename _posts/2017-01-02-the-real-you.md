@@ -3,13 +3,13 @@ layout: post
 title:  The Real You
 date:   2017-01-02
 image: tru-cover.jpg
-buy_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
+kindle_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 buy_print: https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
 excerpt: /novels/the-real-you/excerpt/
 goodreads: https://www.goodreads.com/book/show/33845214-the-real-you
 pages: 366
-isbn-10: 154843356X  
-isbn-13: 978-1548433567  
+print-isbn-10: 154843356X  
+print-isbn-13: 978-1548433567  
 print-info: Trade paperback
 ink-paper: black ink on cream paper
 dimensions: 5.25 x 0.91 x 8 inches
