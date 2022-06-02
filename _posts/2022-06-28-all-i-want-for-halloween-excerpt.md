@@ -9,7 +9,7 @@ image: aiwfh-ebook.jpg
 #googleplay_url: TBD
 kindle_preorder: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
 kobo_preorder: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
-#nook_preorder: TBD
+nook_preorder: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
 #smashwords_url: TBD
 time: 23 minutes
 about: /novellas/all-i-want-for-halloween-is-you/
