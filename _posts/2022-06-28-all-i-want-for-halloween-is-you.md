@@ -18,6 +18,7 @@ connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false
 categories: novellas
+giveaway: aiwfh
 ---
 
 ### Coming 6/28/22 -- [pre-order at the links below!](#pre-order)

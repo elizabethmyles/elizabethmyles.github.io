@@ -3,9 +3,14 @@ layout: post
 title: Halloween Hearts
 date: 2022-05-03
 image: halloween-hearts-connected.jpg
+connected-kindle_url: https://www.amazon.com/gp/product/B0B2L1HSFK/?tag=fearandlaun-20
+connected-kobo_url: https://www.kobo.com/us/en/search?query=Halloween%20Hearts&fcsearchfield=Series&seriesId=ec6ffbc0-5d6c-5538-8c6c-7f30d8eec78d
+connected-nook_url: https://www.barnesandnoble.com/s/%22Halloween+Hearts%22?Ntk=P_Series_Title&Ns=P_Series_Number&Ntx=mode+matchall
+goodreads: https://www.goodreads.com/series/344424
 comments: false
 categories: connected
 slug: halloween-hearts
+giveaway: aiwfh
 ---
     
 ### 5 novellas

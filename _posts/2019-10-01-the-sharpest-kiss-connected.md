@@ -3,7 +3,7 @@ layout: post
 title:  The Sharpest Kiss Series
 date:   2019-10-01
 image: tsk-connected-covers.jpg
-kindle_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+connected-kindle_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
 collected: /collections/the-sharpest-kiss-collection/
 collection-kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
 comments: false
@@ -46,5 +46,4 @@ Click the covers to learn more and read excerpts.
 [yd]:/novels/yesterdays-demon/
 [buy]:https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
 [collection]:/collections/the-sharpest-kiss-collection/
-<!-- [giveaway]:https://www.goodreads.com/giveaway/show/298607-the-sharpest-kiss -->
 								

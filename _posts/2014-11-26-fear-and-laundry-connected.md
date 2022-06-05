@@ -3,7 +3,7 @@ layout: post
 title:  Fear and Laundry 1 & 2
 date:   2014-11-26
 image: fal-connected-covers.jpg
-kindle_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20
+connected-kindle_url: https://www.amazon.com/gp/product/B0749S9MQ3/?tag=fearandlaun-20
 collected: https://elizabethmyles.com/collections/fear-and-laundry-parts-1-and-2/
 collection-kindle_url: https://www.amazon.com/dp/B091G3JHBT/?tag=fearandlaun-20
 comments: false

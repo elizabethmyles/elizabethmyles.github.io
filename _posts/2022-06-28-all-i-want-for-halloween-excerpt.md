@@ -23,6 +23,7 @@ categories:
 - novellas
 - a-kiss-at-halloween
 - excerpts
+giveaway: aiwfh
 ---
 
 The following excerpt is from [*All I Want for Halloween Is You*]({{ page.about }}), coming June 28, 2022 and available for pre-order now!

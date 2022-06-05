@@ -1,10 +1,17 @@
 <ul class="actions">
 {% if page.categories contains "short-stories-full-text" %}{% elsif page.categories contains "short-stories" %}{% if page.kindle_url %}<li><a href="{{ page.kindle_url }}" class="button special icon fa-book" target="_blank">Read</a></li>{% endif %}
+
 {% elsif page.categories contains "connected" %}
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}">collection info</a></li>{% endif %}
-{% if page.collection-kindle_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-kindle_url }}">buy collection</a></li>{% endif %}
-{% if page.kindle_url %}<li><a href="{{ page.kindle_url }}" class="button special icon fa-shopping-cart">buy series</a></li>{% endif %}
+{% if page.collection-kindle_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-kindle_url }}">buy kindle collection</a></li>{% endif %}
+{% if page.connected-kindle_url %}<li><a href="{{ page.connected-kindle_url }}" class="button special icon fa-shopping-cart">buy kindle series</a></li>{% endif %}
+{% if page.connected-kobo_url %}<li><a href="{{ page.connected-kobo_url }}" class="button special icon fa-shopping-cart">buy kobo series</a></li>{% endif %}
+{% if page.connected-nook_url %}<li><a href="{{ page.connected-nook_url }}" class="button special icon fa-shopping-cart">buy nook series</a></li>{% endif %}
+{% if page.connected-smashwords_url %}<li><a href="{{ page.connected-smashwords_url }}" class="button special icon fa-shopping-cart">buy smashwords series</a></li>{% endif %}
+{% if page.pinterest %}<li><a class="button special icon fa-pinterest" href="{{ page.pinterest }}">pinterest</a></li>{% endif %}
+{% if page.goodreads %}<li><a class="button special" href="{{ page.goodreads }}"><span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads</a></li>{% endif %}
 {% else %}
+
 {% if page.slug == "excerpt" %}<li><a class="button icon fa-book" href="{{ page.about }}">about</a></li>{% else %}<li><a class="button icon fa-book" href="{{ page.excerpt }}">excerpt</a></li>{% endif %}
 
 {% if page.apple_url %}
