@@ -33,8 +33,8 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 - The stories range from sweet (kisses only) to a bit more sensual (see individual book descriptions for details)
 - These books can be enjoyed in **any order**. The titles are as follows:
     1. [*A Kiss at Halloween*][akah] (Max and Kaelin) available May 2022
-    2. [*All I Want for Halloween is You*][aiwfh] (Clark and Iris) available June 2022
-    3. *Halloween is the Time to Say I Love You* (Reese and Jessye) available July 2022
+    2. [*All I Want for Halloween Is You*][aiwfh] (Clark and Iris) available June 2022
+    3. *Halloween Is the Time to Say I Love You* (Reese and Jessye) available July 2022
     4. *I'll Be Home for Halloween* (London and Clea) available August 2022
     5. *All My Halloweens* (Corvin and Joy) available September 2022
 	
