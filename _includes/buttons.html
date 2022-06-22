@@ -14,24 +14,24 @@
 
 {% if page.slug == "excerpt" %}<li><a class="button icon fa-book" href="{{ page.about }}">about</a></li>{% else %}<li><a class="button icon fa-book" href="{{ page.excerpt }}">excerpt</a></li>{% endif %}
 
-{% if page.apple_url %}
-{% if page.apple_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Apple Books</a></li>{% endif %}
-{% if page.apple_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.apple_url }}">Apple Books</a></li>{% endif %}
+{% if page.applebooks_url %}
+{% if page.applebooks_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Apple Books</a></li>{% endif %}
+{% if page.applebooks_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.applebooks_url }}">Apple Books</a></li>{% endif %}
 {% endif %}
 
-{% if page.apple_preorder %}
-{% if page.apple_preorder == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">pre-order Apple Books</a></li>{% endif %}
-{% if page.apple_preorder <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.apple_preorder }}">pre-order Apple Books</a></li>{% endif %}
+{% if page.applebooks_preorder %}
+{% if page.applebooks_preorder == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">pre-order Apple Books</a></li>{% endif %}
+{% if page.applebooks_preorder <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.applebooks_preorder }}">pre-order Apple Books</a></li>{% endif %}
 {% endif %}
 
-{% if page.google_url %}
-{% if page.google_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Google Play</a></li>{% endif %}
-{% if page.google_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.google_url }}">Google Play</a></li>{% endif %}
+{% if page.googleplay_url %}
+{% if page.googleplay_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Google Play</a></li>{% endif %}
+{% if page.googleplay_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.googleplay_url }}">Google Play</a></li>{% endif %}
 {% endif %}
 
-{% if page.google_preorder %}
-{% if page.google_preorder == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">pre-order Google Play</a></li>{% endif %}
-{% if page.google_preorder <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.google_preorder }}">pre-order Google Play</a></li>{% endif %}
+{% if page.googleplay_preorder %}
+{% if page.googleplay_preorder == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">pre-order Google Play</a></li>{% endif %}
+{% if page.googleplay_preorder <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.googleplay_preorder }}">pre-order Google Play</a></li>{% endif %}
 {% endif %}
 
 {% if page.kindle_url %}

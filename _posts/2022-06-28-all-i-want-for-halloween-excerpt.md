@@ -13,7 +13,7 @@ nook_preorder: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-
 #smashwords_url: TBD
 time: 23 minutes
 about: /novellas/all-i-want-for-halloween-is-you/
-#pinterest: 
+pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg

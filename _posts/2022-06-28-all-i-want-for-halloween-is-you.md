@@ -10,7 +10,7 @@ kobo_preorder: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
 nook_preorder: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
 #smashwords_url: TBD
 excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
-#pinterest: TBD
+pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
 pages: 276
 cat: Fiction / Romance / New Adult / Contemporary
