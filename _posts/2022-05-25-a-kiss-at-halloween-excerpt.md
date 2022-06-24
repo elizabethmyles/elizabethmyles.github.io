@@ -6,7 +6,7 @@ slug: excerpt
 date: 2022-05-25
 image: akah-ebook.jpg
 #applebooks_url: TBD
-googleplay_url: https://play.google.com/store/books/details?id=q9F0EAAAQBAJ
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_A_Kiss_at_Halloween?id=q9F0EAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B0B2CV67SX/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/a-kiss-at-halloween
 nook_url: https://www.barnesandnoble.com/w/a-kiss-at-halloween-elizabeth-myles/1141549182?ean=2940185753002

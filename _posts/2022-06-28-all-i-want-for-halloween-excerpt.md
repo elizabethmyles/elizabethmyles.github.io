@@ -6,7 +6,7 @@ slug: excerpt
 date: 2022-06-28
 image: aiwfh-ebook.jpg
 #applebooks_url: TBD
-#googleplay_url: TBD
+googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_All_I_Want_for_Halloween_Is_You?id=Os92EAAAQBAJ
 kindle_preorder: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
 kobo_preorder: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
 nook_preorder: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
