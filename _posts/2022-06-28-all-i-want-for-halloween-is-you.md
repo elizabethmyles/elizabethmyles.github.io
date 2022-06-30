@@ -4,11 +4,11 @@ title: All I Want for Halloween Is You
 date: 2022-06-28
 image: aiwfh-cover.jpg
 #applebooks_url: TBD
-googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_All_I_Want_for_Halloween_Is_You?id=Os92EAAAQBAJ
-kindle_preorder: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
-kobo_preorder: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
-nook_preorder: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
-#smashwords_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_I_Want_for_Halloween_Is_You?id=Os92EAAAQBAJ
+kindle_url: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
+kobo_url: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
+nook_url: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
+smashwords_url: https://www.smashwords.com/books/view/1153767
 excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
@@ -18,10 +18,8 @@ connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false
 categories: novellas
-giveaway: aiwfh
+#giveaway: aiwfh
 ---
-
-### Coming 6/28/22 -- [pre-order at the links below!](#pre-order)
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
@@ -42,9 +40,5 @@ At least Clark is kind and mannerly, and the more Iris learns about him, the mor
 Now, if only Iris could convince Clark to give HER a chance in return, an opportunity to prove that, despite the stark differences between them, they're a good match, and that their chance encounter this Halloween could lead not only to friendship and acceptance—two things Clark considers unattainable for himself—but to more. Much more. Perhaps even a lifetime of love and happiness.
 
 *Content advisory for* Book 2: All I Want for Halloween is You*: this story contains sexual references, sensual kissing, sensual touching, and discussions of trauma.*
-
-<a id="pre-order"></a>
-&nbsp;
-### Available for pre-order now at the links below
 
 {: }

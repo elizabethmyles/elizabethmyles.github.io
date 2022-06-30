@@ -10,7 +10,7 @@ goodreads: https://www.goodreads.com/series/344424
 comments: false
 categories: connected
 slug: halloween-hearts
-giveaway: aiwfh
+#giveaway: aiwfh
 ---
     
 ### 5 novellas
