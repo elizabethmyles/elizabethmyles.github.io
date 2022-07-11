@@ -21,11 +21,11 @@ comments: false
 permalink: /novellas/all-i-want-for-halloween-is-you/excerpt/
 categories: 
 - novellas
-- a-kiss-at-halloween
+- all-i-want-for-halloween-is-you
 - excerpts
 #giveaway: aiwfh
 ---
 
-The following excerpt is from [*All I Want for Halloween Is You*]({{ page.about }}), available now!
+The following excerpt is from [*All I Want for Halloween Is You*]({{ page.about }}), available now.
 
 <iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0B2VDNNDR&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yfBqFbZBJNXZ8&tag=fearandlaun-20" ></iframe> 

@@ -34,7 +34,7 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 - These books can be enjoyed in **any order**. The titles are as follows:
     1. [*A Kiss at Halloween*][akah] (Max and Kaelin) available May 2022
     2. [*All I Want for Halloween Is You*][aiwfh] (Clark and Iris) available June 2022
-    3. *Halloween Is the Time to Say I Love You* (Reese and Jessye) available July 2022
+    3. [*Halloween Is the Time to Say I Love You*][hitt] (Reese and Jessye) available July 2022
     4. *I'll Be Home for Halloween* (London and Clea) available August 2022
     5. *All My Halloweens* (Corvin and Joy) available September 2022
 	
@@ -44,9 +44,11 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 	<div class="row uniform 50%">
 		<div class="col-4"><span class="image fit"><a href="/novellas/a-kiss-at-halloween/"><img src="/images/akah-cover-small.jpg" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novellas/all-i-want-for-halloween-is-you/"><img src="/images/aiwfh-cover-small.jpg" /></a></span></div>
+		<div class="col-4"><span class="image fit"><a href="/novellas/halloween-is-the-time-to-say-i-love-you/"><img src="/images/hitt-cover-small.jpg" /></a></span></div>
 		<div class="col-4"><span class="image fit"><img src="/images/halloween-hearts-covers-coming-soon.jpg" /></span></div>
 	</div>
 </div>
 
 [akah]:/novellas/a-kiss-at-halloween/
 [aiwfh]:/novellas/all-i-want-for-halloween-is-you/
+[hitt]:/novellas/halloween-is-the-time-to-say-i-love-you/

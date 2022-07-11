@@ -80,7 +80,8 @@
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}">collection</a></li>{% endif %}
 {% if page.buy_collection %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_collection }}">buy collection</a></li>{% endif %}
 {% if page.connected_name %}<li><a class="button special icon fa-chain" href="/connected/{{ page.connected_name | slugify }}/">connected</a></li>{% endif %}
-{% if page.pinterest %}<li><a class="button special icon fa-pinterest" href="{{ page.pinterest }}">pinterest</a></li>{% endif %}
+{% if page.pinterest == "TBD" %}<li><a class="button special disabled">pinterest</a></li>{% endif %}
+{% if page.pinterest <> "TBD" %}<li><a class="button special icon fa-pinterest" href="{{ page.pinterest }}">pinterest</a></li>{% endif %}
 {% if page.goodreads == "TBD" %}<li><a class="button special disabled"><span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads</a></li>{% endif %}
 {% if page.goodreads <> "TBD"%}<li><a class="button special" href="{{ page.goodreads }}"><span style="font-family:sans-serif;font-size:1.4em;font-weight:normal;text-transform:lowercase;">g</span> goodreads</a></li>{% endif %}
 {% endif %}
