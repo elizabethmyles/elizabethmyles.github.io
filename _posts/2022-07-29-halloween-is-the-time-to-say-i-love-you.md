@@ -4,7 +4,7 @@ title: Halloween Is the Time to Say I Love You
 date: 2022-07-29
 image: hitt-cover.jpg
 #applebooks_url: TBD
-#googleplay_url: TBD
+googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_Halloween_Is_the_Time_to_Say_I_Lov?id=bj96EAAAQBAJ
 kindle_preorder: https://www.amazon.com/gp/product/B0B669531C/?tag=fearandlaun-20
 kobo_preorder: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
 nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
