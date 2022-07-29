@@ -5,7 +5,7 @@ book: All I Want for Halloween is You
 slug: excerpt
 date: 2022-06-28
 image: aiwfh-ebook.jpg
-#applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/all-i-want-for-halloween-is-you/id6443149631
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_I_Want_for_Halloween_Is_You?id=Os92EAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you

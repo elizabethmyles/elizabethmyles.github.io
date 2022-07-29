@@ -4,15 +4,15 @@ title: Halloween Is the Time to Say I Love You
 date: 2022-07-29
 image: hitt-cover.jpg
 #applebooks_url: TBD
-googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_Halloween_Is_the_Time_to_Say_I_Lov?id=bj96EAAAQBAJ
-kindle_preorder: https://www.amazon.com/gp/product/B0B669531C/?tag=fearandlaun-20
-kobo_preorder: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
-nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
-#smashwords_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Halloween_Is_the_Time_to_Say_I_Lov?id=bj96EAAAQBAJ
+kindle_url: https://www.amazon.com/gp/product/B0B669531C/?tag=fearandlaun-20
+kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
+nook_url: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
+smashwords_url: https://www.smashwords.com/books/view/1158245
 excerpt: /novellas/halloween-is-the-time-to-say-i-love-you/excerpt/
-pinterest: TBD
+pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
 goodreads: TBD
-pages: 250
+pages: 255
 cat: Fiction / Romance / New Adult / Contemporary
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
@@ -20,8 +20,6 @@ comments: false
 categories: novellas
 #giveaway: aiwfh
 ---
-
-### Coming 7/29/22 -- [pre-order at the links below!](#pre-order)
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
@@ -48,8 +46,5 @@ But can he convince Jessye to trust again? To reopen her heart and give him anot
 If ever there were a perfect opportunity to reshape fate, this special weekend might be it. Because in Hillingham Hollow, Halloween is the Time to Say I Love You.
 
 *Content advisory for* Book 3: Halloween is the Time to Say I Love You*: sexual references, sensual kissing*
-<a id="pre-order"></a>
-&nbsp;
-### Available for pre-order now at the links below
 
 {: }
