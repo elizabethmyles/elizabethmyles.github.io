@@ -5,7 +5,7 @@ book: Halloween Is the Time to Say I Love You
 slug: excerpt
 date: 2022-07-29
 image: hitt-ebook.jpg
-#applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/halloween-is-the-time-to-say-i-love-you/id6443262013
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Halloween_Is_the_Time_to_Say_I_Lov?id=bj96EAAAQBAJ
 kindle_url: https://www.amazon.com/gp/product/B0B669531C/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
