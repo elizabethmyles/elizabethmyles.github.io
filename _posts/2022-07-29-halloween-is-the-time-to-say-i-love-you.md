@@ -25,8 +25,6 @@ categories: novellas
 
 ***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
 
-*It's nearly Halloween in Hillingham Hollow, and Kaelin's weekend of volunteering just went from potentially fun to passionately fraught, as she finds herself building a carnival booth with a sexy former classmate&mdash;and embarking on an emotional roller coaster as heart-pounding and dizzying as any fairground ride.*
-
 **Book 3: Halloween Is the Time to Say I Love You**
 
 When Jessye first met Reese, her fierce attraction to him set her mind and heart spinning.

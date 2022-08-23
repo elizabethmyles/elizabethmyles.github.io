@@ -25,8 +25,6 @@ categories: novellas
 
 ***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
 
-*It's nearly Halloween in Hillingham Hollow, and Kaelin's weekend of volunteering just went from potentially fun to passionately fraught, as she finds herself building a carnival booth with a sexy former classmate&mdash;and embarking on an emotional roller coaster as heart-pounding and dizzying as any fairground ride.*
-
 **Book 2: All I Want for Halloween is You**
 
 After a hiatus of nearly four years, Iris's favorite musical obsession, rock band How to Make a Wolf Howl, are stepping out of semi-retirement to make a special, one-night-only appearance in her hometown of Hillingham Hollow.
