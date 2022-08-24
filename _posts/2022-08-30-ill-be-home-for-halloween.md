@@ -10,10 +10,10 @@ kindle_preorder: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-2
 #nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_preorder: https://www.smashwords.com/books/view/1159786
 excerpt: /novellas/ill-be-home-for-halloween/excerpt/
-pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
-goodreads: TBD
+pinterest: TBD
+goodreads: https://www.goodreads.com/book/show/62057281-i-ll-be-home-for-halloween
 pages: 255
-cat: Fiction / Romance / New Adult / Contemporary
+cat: Fiction / Romance / New Adult / Contemporary / Fantasy
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false
@@ -44,4 +44,6 @@ The avalanche of questions twists Clea's mind and heart into knots, all the more
 *Content advisory for* Book 4: I'll Be Home for Halloween: *sexual references, sensual kissing*
 
 <a id="pre-order"></a>
+
+### Pre-order
 {: }

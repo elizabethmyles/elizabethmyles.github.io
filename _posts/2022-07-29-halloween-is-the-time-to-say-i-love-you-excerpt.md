@@ -13,7 +13,7 @@ nook_url: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_url: https://www.smashwords.com/books/view/1158245
 excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
-goodreads: TBD
+goodreads: https://www.goodreads.com/book/show/62057280-halloween-is-the-time-to-say-i-love-you
 time: 23 minutes
 about: /novellas/halloween-is-the-time-to-say-i-love-you/
 connected_name: Halloween Hearts

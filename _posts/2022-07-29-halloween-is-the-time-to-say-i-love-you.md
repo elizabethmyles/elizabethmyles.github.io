@@ -11,7 +11,7 @@ nook_url: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_url: https://www.smashwords.com/books/view/1158245
 excerpt: /novellas/halloween-is-the-time-to-say-i-love-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
-goodreads: TBD
+goodreads: https://www.goodreads.com/book/show/62057280-halloween-is-the-time-to-say-i-love-you
 pages: 255
 cat: Fiction / Romance / New Adult / Contemporary
 connected_name: Halloween Hearts

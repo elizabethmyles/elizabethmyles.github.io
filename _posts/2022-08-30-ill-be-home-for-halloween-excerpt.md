@@ -11,8 +11,8 @@ kindle_preorder: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-2
 #kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
 #nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_preorder: https://www.smashwords.com/books/view/1159786
-pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
-goodreads: TBD
+pinterest: TBD
+goodreads: https://www.goodreads.com/book/show/62057281-i-ll-be-home-for-halloween
 #time: 18 minutes
 about: /novellas/ill-be-home-for-halloween/
 connected_name: Halloween Hearts
