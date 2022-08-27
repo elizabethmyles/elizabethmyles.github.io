@@ -10,9 +10,9 @@ kindle_preorder: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-2
 #nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_preorder: https://www.smashwords.com/books/view/1159786
 excerpt: /novellas/ill-be-home-for-halloween/excerpt/
-pinterest: TBD
+pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
 goodreads: https://www.goodreads.com/book/show/62057281-i-ll-be-home-for-halloween
-pages: 255
+pages: 275
 cat: Fiction / Romance / New Adult / Contemporary / Fantasy
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg

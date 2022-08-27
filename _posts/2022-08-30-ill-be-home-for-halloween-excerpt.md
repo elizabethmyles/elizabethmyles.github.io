@@ -11,7 +11,7 @@ kindle_preorder: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-2
 #kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
 #nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_preorder: https://www.smashwords.com/books/view/1159786
-pinterest: TBD
+pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
 goodreads: https://www.goodreads.com/book/show/62057281-i-ll-be-home-for-halloween
 #time: 18 minutes
 about: /novellas/ill-be-home-for-halloween/
@@ -28,7 +28,7 @@ categories:
 
 The following excerpt is from [*I'll Be Home for Halloween*]({{ page.about }}), available for pre-order now.
 
-<!--iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0B669531C&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yfBqFbZBJNXZ8&tag=fearandlaun-20" ></iframe--> 
+<!--iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0BBF7ZX1Q&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yfBqFbZBJNXZ8&tag=fearandlaun-20" ></iframe--> 
 
 *Hillingham Hollow, a suburb of Houston, Texas*<br />
 *Halloween night, eight years ago*
@@ -37,7 +37,7 @@ The following excerpt is from [*I'll Be Home for Halloween*]({{ page.about }}), 
 
 It was sophomore year, and Lina and I were hanging out near the refreshment table at Jackie Messer's annual Halloween costume party. Lina was here with her latest admirer, a guy names Grady, and I was here with a tall drink of water named London Lange. London was seventeen and a senior, and he was a member of a pop music group called Five with a Beat.
 
-If that situation seems surreal and artificial to you, that's because it was. I should never have even met London, much less dated him. As Lina had pointed out, he was hot and famous, and I was…
+If that situation seems surreal and artificial to you, that's because it was. I should never have even met London, much less dated him. As Lina had pointed out, he was hot and famous, and I was...
 
 Well, I was nothing and nobody. Not an actress, not a singer, not any type of celebrity. Just someone whose parents had made the questionable decision to let cameras follow me around for ten months.
 
@@ -119,11 +119,11 @@ Behind London, Lina's eyes bulged, and she made a choked noise, as if she couldn
 
 Case in point, London threw back his head in a laugh. "No, my gut's fine," he said, and patted his flat stomach. "Thankfully. That was my ‘Clea, I'm drowning over here, please feel free to interrupt and get me out of here pronto' face. Just for future reference."
 
-"Ah," I nodded. "Okay. Got it. So…I take it you're ready to leave, then?"
+"Ah," I nodded. "Okay. Got it. So...I take it you're ready to leave, then?"
 
 He nodded, too, with emphasis. "I already said goodbye to Jackie. How about you?"
 
-"No." I almost laughed. "But I doubt she'll care. I wouldn't even be here if it weren't for you." Jackie and I had never been friends. London was the one she had wanted to invite to her party. She knew she would get stuck welcoming me as his companion, but it was worth it to her because he would also bring along the rest of the Five, as well as the cameras. Speaking of which…the other band members had left almost an hour ago, but the camera guys were loitering in the corner. They had ignored me while I was talking to Lina, because London wasn't around, but now they were filming us. I was impressed with how unobtrusive they could be. You know how people on reality shows say that eventually "you forget that the cameras are even there?" Well, it's true. I'd had most of my days filmed for the past two months, and I rarely thought about the cameras anymore. No one else seemed to pay attention to them, either. If I thought about it too hard, I realized how strange—and likely unhealthy—that was. 
+"No." I almost laughed. "But I doubt she'll care. I wouldn't even be here if it weren't for you." Jackie and I had never been friends. London was the one she had wanted to invite to her party. She knew she would get stuck welcoming me as his companion, but it was worth it to her because he would also bring along the rest of the Five, as well as the cameras. Speaking of which...the other band members had left almost an hour ago, but the camera guys were loitering in the corner. They had ignored me while I was talking to Lina, because London wasn't around, but now they were filming us. I was impressed with how unobtrusive they could be. You know how people on reality shows say that eventually "you forget that the cameras are even there?" Well, it's true. I'd had most of my days filmed for the past two months, and I rarely thought about the cameras anymore. No one else seemed to pay attention to them, either. If I thought about it too hard, I realized how strange—and likely unhealthy—that was. 
 
 "We can say goodbye to Lina, though," I said, and I craned my neck to peek around London's shoulder at Lina, who was still standing there, wringing her hands and staring at the back of his head with longing.
 
@@ -149,7 +149,7 @@ I shrugged. "It was alright."
 
 "Thanks for coming with me. I know it's not your sort of thing."
 
-"Eh, this one wasn't too bad, as far as parties go. Except…"
+"Eh, this one wasn't too bad, as far as parties go. Except..."
 
 "Except?"
 
