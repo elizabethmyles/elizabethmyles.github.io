@@ -3,25 +3,23 @@ layout: post
 title: I'll Be Home for Halloween
 date: 2022-08-30
 image: ibhfh-cover.jpg
-applebooks_preorder: https://books.apple.com/us/book/ill-be-home-for-halloween/id6443265627
-googleplay_preoder: https://play.google.com/store/books/details/Elizabeth_Myles_I_ll_Be_Home_for_Halloween?id=17yDEAAAQBAJ
-kindle_preorder: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-20
-#kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
-#nook_preorder: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
-smashwords_preorder: https://www.smashwords.com/books/view/1159786
+applebooks_url: https://books.apple.com/us/book/ill-be-home-for-halloween/id6443265627
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_I_ll_Be_Home_for_Halloween?id=17yDEAAAQBAJ
+kindle_url: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-20
+kobo_url: https://www.kobo.com/us/en/ebook/i-ll-be-home-for-halloween
+nook_url: https://www.barnesandnoble.com/w/ill-be-home-for-halloween-elizabeth-myles/1141981536?ean=2940185852484
+smashwords_url: https://www.smashwords.com/books/view/1159786
 excerpt: /novellas/ill-be-home-for-halloween/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
-goodreads: https://www.goodreads.com/book/show/62057281-i-ll-be-home-for-halloween
+goodreads: https://www.goodreads.com/book/show/62103635-i-ll-be-home-for-halloween
 pages: 275
 cat: Fiction / Romance / New Adult / Contemporary / Fantasy
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false
 categories: novellas
-#giveaway: aiwfh
+giveaway: ibhfh
 ---
-
-### Coming 8/30/22 -- [pre-order at the links below!](#pre-order)
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
@@ -43,7 +41,4 @@ The avalanche of questions twists Clea's mind and heart into knots, all the more
 
 *Content advisory for* Book 4: I'll Be Home for Halloween: *sexual references, sensual kissing*
 
-<a id="pre-order"></a>
-
-### Pre-order
 {: }
