@@ -12,18 +12,18 @@ smashwords_url: https://www.smashwords.com/books/view/1159786
 excerpt: /novellas/ill-be-home-for-halloween/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
 goodreads: https://www.goodreads.com/book/show/62103635-i-ll-be-home-for-halloween
-pages: 275
+pages: 277
 cat: Fiction / Romance / New Adult / Contemporary / Fantasy
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false
 categories: novellas
-giveaway: ibhfh
+#giveaway: ibhfh
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
-***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
+***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air...***
 
 *As a teen, Clea starred on reality TV with pop star London Lange. She’d thought they were in love, but when the show ended, he left town and never returned. Years later, Clea still thinks about London. A lot. But she hopes someday she’ll learn how to let him go because chances are, she’ll never see him again. Or will she? Could a magical Halloween reunion spell their second chance?*
 

@@ -12,7 +12,7 @@ smashwords_url: https://www.smashwords.com/books/view/1153767
 excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
-pages: 276
+pages: 277
 cat: Fiction / Romance / New Adult / Contemporary
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
@@ -23,7 +23,7 @@ categories: novellas
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
-***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
+***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air...***
 
 **Book 2: All I Want for Halloween is You**
 

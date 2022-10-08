@@ -23,7 +23,7 @@ categories: novellas
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
-***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
+***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air...***
 
 **Book 3: Halloween Is the Time to Say I Love You**
 

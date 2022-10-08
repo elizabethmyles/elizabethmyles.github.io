@@ -22,7 +22,7 @@ categories: novellas
 
 ### This Halloween, lose your heart in Hillingham Hollow...
 
-***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air.***
+***Welcome to Hillingham Hollow, the wholesome Texas suburb where romance abounds and real magic is rumored to be in the air...***
 
 *It's nearly Halloween in Hillingham Hollow, and Kaelin's weekend of volunteering just went from potentially fun to passionately fraught, as she finds herself building a carnival booth with a sexy former classmate&mdash;and embarking on an emotional roller coaster as heart-pounding and dizzying as any fairground ride.*
 

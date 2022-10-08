@@ -6,11 +6,11 @@ image: halloween-hearts-connected.jpg
 connected-kindle_url: https://www.amazon.com/gp/product/B0B2L1HSFK/?tag=fearandlaun-20
 connected-kobo_url: https://www.kobo.com/us/en/search?query=Halloween%20Hearts&fcsearchfield=Series&seriesId=ec6ffbc0-5d6c-5538-8c6c-7f30d8eec78d
 connected-nook_url: https://www.barnesandnoble.com/s/%22Halloween+Hearts%22?Ntk=P_Series_Title&Ns=P_Series_Number&Ntx=mode+matchall
+connected-smashwords_url: https://www.smashwords.com/books/byseries/55502
 goodreads: https://www.goodreads.com/series/344424
 comments: false
 categories: connected
 slug: halloween-hearts
-#giveaway: aiwfh
 ---
     
 ### 5 novellas
@@ -36,9 +36,9 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
     2. [*All I Want for Halloween Is You*][aiwfh] (Clark and Iris) available June 2022
     3. [*Halloween Is the Time to Say I Love You*][hitt] (Reese and Jessye) available July 2022
     4. [*I'll Be Home for Halloween*][ibhfh] (London and Clea) available August 2022
-    5. *All My Halloweens* (Corvin and Joy) available September 2022
+    5. [*All My Halloweens*][amh] (Corvin and Joy) available October 2022
 	
-**Book one is FREE, the rest will cost only 99 cents each.** Collect them all by Halloween!
+**Book one is FREE, the rest cost only 99 cents each.** Collect them all by Halloween!
 
 <div class="box">
 	<div class="row uniform 50%">
@@ -46,7 +46,7 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 		<div class="col-4"><span class="image fit"><a href="/novellas/all-i-want-for-halloween-is-you/"><img src="/images/aiwfh-cover-small.jpg" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novellas/halloween-is-the-time-to-say-i-love-you/"><img src="/images/hitt-cover-small.jpg" /></a></span></div>
 		<div class="col-4"><span class="image fit"><a href="/novellas/ill-be-home-for-halloween/"><img src="/images/ibhfh-cover-small.jpg" /></a></span></div>
-		<div class="col-4"><span class="image fit"><img src="/images/halloween-hearts-covers-coming-soon.jpg" /></span></div>
+		<div class="col-4"><span class="image fit"><a href="/novellas/all-my-halloweens/"><img src="/images/amh-cover-small.jpg" /></a></span></div>
 	</div>
 </div>
 
@@ -54,3 +54,4 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 [aiwfh]:/novellas/all-i-want-for-halloween-is-you/
 [hitt]:/novellas/halloween-is-the-time-to-say-i-love-you/
 [ibhfh]:/novellas/ill-be-home-for-halloween/
+[amh]:/novellas/all-my-halloweens/
