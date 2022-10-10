@@ -20,17 +20,17 @@ so feel free to contact her at [elizabeth(at)mylesandmyles.info][email], subscri
 
 ### Connect with Elizabeth
 
-- [About.me][aboutme]{: target="_blank"}
-- [Amazon][amazon]{: target="_blank"}
-- [BookBub][bookbub]{: target="_blank"}
-- [Facebook][facebook]{: target="_blank"}
-- [Goodreads][goodreads]{: target="_blank"}
-- [Instagram][instagram]{: target="_blank"}
-- [LibraryThing][librarything]{: target="_blank"}
-- [Pinterest][pinterest]{: target="_blank"}
-- [Tumblr (book-related)][tumblr]{: target="_blank"}
-- [Tumblr (personal)][tumblr2]{: target="_blank"}
-- [WordPress][wordpress]{: target="_blank"}
+- [About.me][aboutme]{: target="_blank" title="About.me"}
+- [Amazon][amazon]{: target="_blank" title="Amazon"}
+- [BookBub][bookbub]{: target="_blank" title="BookBub"}
+- [Facebook][facebook]{: target="_blank" title="Facebook"}
+- [Goodreads][goodreads]{: target="_blank" title="Goodreads"}
+- [Instagram][instagram]{: target="_blank" title="Instagram"}
+- [LibraryThing][librarything]{: target="_blank" title="LibraryThing"}
+- [Pinterest][pinterest]{: target="_blank" title="Pinterest"}
+- [Tumblr (book-related)][tumblr]{: target="_blank" title="Tumblr (book-related)"}
+- [Tumblr (personal)][tumblr2]{: target="_blank" title="Tumblr (personal)"}
+- [WordPress][wordpress]{: target="_blank" title="Blog"}
 
 [uh]:http://www.uh.edu/
 [lsc]:http://www.lonestar.edu/tomball.htm

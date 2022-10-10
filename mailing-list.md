@@ -9,7 +9,7 @@ slug: mailing-list
 
 ## Mailing List
 
-Sign up for my occasional newsletter and be the first to know about new releases, sales, and giveaways! I will never share or sell your information, and you will only hear from me if I have news or a special offer to announce.
+Sign up and be the first to know about new releases, sales, and giveaways! I will never share or sell your information, and you will only hear from me if I have news or a special offer to announce.
 
 <form method="post" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl" target="_blank" style="width:55%; max-width:500px;" >
 <div style="display: none;">

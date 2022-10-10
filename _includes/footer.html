@@ -4,14 +4,13 @@
     {% for socloc in site.social %}
     {% if socloc[1] %}
     {% if socloc[0] == 'email' %}
-    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"><span class="label">E-mail</span></a></li>
+    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o" title="E-mail"><span class="label">E-mail</span></a></li>
 	{% elsif socloc[0] == 'goodreads' %}
-	<li><a target="_blank" href="https://www.goodreads.com/author/show/261906.Elizabeth_Myles" class="icon goodreads"><span style="font-family:sans-serif;font-size:1.4em;font-weight:lighter;">g</span></a></li>
+	<li><a target="_blank" href="https://www.goodreads.com/author/show/261906.Elizabeth_Myles" class="icon goodreads" title="Goodreads"><span style="font-family:sans-serif;font-size:1.4em;font-weight:lighter;">g</span></a></li>
 	{% elsif socloc[0] == 'bookbub' %}
-	<li><a target="_blank" href="https://www.bookbub.com/profile/3421192761" class="icon bookbub">BB</a></li>
+	<li><a target="_blank" href="https://www.bookbub.com/profile/3421192761" class="icon bookbub" title="BookBub">BB</a></li>
 	{% else %}
-    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
-           ><span class="label">{{ socloc[0] }}</span></a></li>
+    <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}" title="{% if socloc[0] == "facebook-official" %}Facebook{% elsif socloc[0] == "tumblr-square" %}Tumblr{% else %}{{ socloc[0] | capitalize }}{% endif %}"><span class="label">{{ socloc[0] }}</span></a></li>
     {% endif %}
     {% endif %}
     {% endfor %}
@@ -25,8 +24,8 @@
     {% endif %}
     {{ thisyear }}
     {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
-    <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-    <li>Banner Template: <a href="https://covervault.com" target="_blank">covervault</a></li>
-    <li>Built with: <a href="https://jekyllrb.com" target="_blank">Jekyll</a></li>
+    <li>Design: <a href="https://html5up.net" target="_blank" title="HTML5 UP">HTML5 UP</a></li>
+    <li>Banner Template: <a href="https://covervault.com" target="_blank" title="Covervault">Covervault</a></li>
+    <li>Built with: <a href="https://jekyllrb.com" target="_blank" title="Jekyll">Jekyll</a></li>
   </ul>
 </footer>

@@ -6,7 +6,7 @@ slug: excerpt
 date: 2022-10-07
 image: amh-ebook.jpg
 applebooks_url: TBD
-googleplay_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_My_Halloweens?id=-dWTEAAAQBAJ
 kindle_url: https://www.amazon.com/gp/product/B0BHPK1CZJ/?tag=fearandlaun-20
 kobo_url: TBD
 nook_url: https://www.barnesandnoble.com/w/all-my-halloweens-elizabeth-myles/1142467954?ean=2940186698685

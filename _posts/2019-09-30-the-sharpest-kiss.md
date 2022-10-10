@@ -3,7 +3,12 @@ layout: post
 title:  The Sharpest Kiss
 date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
+applebooks_url: TBD
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: TBD
+smashwords_url: TBD
 excerpt: /novels/the-sharpest-kiss/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
