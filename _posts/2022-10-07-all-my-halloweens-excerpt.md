@@ -8,7 +8,7 @@ image: amh-ebook.jpg
 applebooks_url: TBD
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_My_Halloweens?id=-dWTEAAAQBAJ
 kindle_url: https://www.amazon.com/gp/product/B0BHPK1CZJ/?tag=fearandlaun-20
-kobo_url: TBD
+kobo_url: https://www.kobo.com/us/en/ebook/all-my-halloweens
 nook_url: https://www.barnesandnoble.com/w/all-my-halloweens-elizabeth-myles/1142467954?ean=2940186698685
 smashwords_url: https://www.smashwords.com/books/view/1169142
 pinterest: https://www.pinterest.com/tangentuniverse/all-my-halloweens/
