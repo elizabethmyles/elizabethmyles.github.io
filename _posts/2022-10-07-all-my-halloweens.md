@@ -11,7 +11,7 @@ nook_url: https://www.barnesandnoble.com/w/all-my-halloweens-elizabeth-myles/114
 smashwords_url: https://www.smashwords.com/books/view/1169142
 excerpt: /novellas/all-my-halloweens/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-my-halloweens/
-goodreads: TBD
+goodreads: https://www.goodreads.com/book/show/62993103-all-my-halloweens
 pages: 354
 cat: Fiction / Romance / New Adult / Contemporary / Paranormal
 connected_name: Halloween Hearts
