@@ -3,7 +3,7 @@ layout: post
 title: All My Halloweens
 date: 2022-10-07
 image: amh-cover.jpg
-applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/all-my-halloweens/id6443851182
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_My_Halloweens?id=-dWTEAAAQBAJ
 kindle_url: https://www.amazon.com/gp/product/B0BHPK1CZJ/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/all-my-halloweens
