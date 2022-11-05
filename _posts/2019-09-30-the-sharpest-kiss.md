@@ -4,11 +4,11 @@ title:  The Sharpest Kiss
 date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
 applebooks_url: TBD
-googleplay_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_The_Sharpest_Kiss?id=u16ZEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
-kobo_url: TBD
-nook_url: TBD
-smashwords_url: TBD
+kobo_url: https://www.kobo.com/us/en/ebook/the-sharpest-kiss
+nook_url: https://www.barnesandnoble.com/w/the-sharpest-kiss-elizabeth-myles/1142603583?ean=2940186643227
+smashwords_url: https://www.smashwords.com/books/view/1176584
 excerpt: /novels/the-sharpest-kiss/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
