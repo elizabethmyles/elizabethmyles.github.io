@@ -3,7 +3,7 @@ layout: post
 title:  The Sharpest Kiss
 date:   2019-09-30T00:00:00Z
 image: tsk-cover.jpg
-applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/the-sharpest-kiss/id6444222346
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_The_Sharpest_Kiss?id=u16ZEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/the-sharpest-kiss
