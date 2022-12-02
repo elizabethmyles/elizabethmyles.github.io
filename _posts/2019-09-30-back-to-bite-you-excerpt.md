@@ -6,11 +6,11 @@ slug: excerpt
 date:   2019-09-30T00:03:00Z
 image: btby-ebook.jpg
 applebooks_url: TBD
-googleplay_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Back_to_Bite_You?id=FrOeEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
-kobo_url: TBD
-nook_url: TBD
-smashwords_url: TBD
+kobo_url: https://www.kobo.com/us/en/ebook/back-to-bite-you-1
+nook_url: https://www.barnesandnoble.com/w/back-to-bite-you-elizabeth-myles/1142781790?ean=2940186794769
+smashwords_url: https://www.smashwords.com/books/view/1186030
 about: /novels/back-to-bite-you/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328045-back-to-bite-you
