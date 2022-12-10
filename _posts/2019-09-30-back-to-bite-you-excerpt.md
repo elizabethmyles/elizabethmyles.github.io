@@ -5,7 +5,7 @@ book:  Back to Bite You
 slug: excerpt
 date:   2019-09-30T00:03:00Z
 image: btby-ebook.jpg
-applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/back-to-bite-you/id6444984419
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Back_to_Bite_You?id=FrOeEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B07YJF5V1J/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/back-to-bite-you-1
