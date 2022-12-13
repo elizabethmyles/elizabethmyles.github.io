@@ -10,7 +10,7 @@ googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
 kobo_url: TBD
 nook_url: TBD
-smashwords_url: TBD
+smashwords_url: https://www.smashwords.com/books/view/1283098
 about: /novels/yesterdays-demon/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/55197927-yesterday-s-demon
