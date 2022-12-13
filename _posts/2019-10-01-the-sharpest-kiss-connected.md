@@ -4,6 +4,9 @@ title:  The Sharpest Kiss Series
 date:   2019-10-01
 image: tsk-connected-covers.jpg
 connected-kindle_url: https://www.amazon.com/gp/product/B08H1FJP78?tag=fearandlaun-20
+connected-kobo_url: https://www.kobo.com/us/en/search?acp=elizabeth+myles&sort=Temperature&fcsearchfield=Series&seriesId=a4a9b162-1559-53e7-91cb-5496b04db653&query=The+Sharpest+Kiss
+connected-nook_url: https://www.barnesandnoble.com/s/%22The+Sharpest+Kiss%22?Ntk=P_Series_Title&Ns=P_Series_Number&Ntx=mode+matchall
+connected-smashwords_url: https://www.smashwords.com/books/byseries/70742
 collected_title: The Sharpest Kiss Collection
 collected: /collections/the-sharpest-kiss-collection/
 collection-kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
