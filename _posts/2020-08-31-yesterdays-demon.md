@@ -4,10 +4,10 @@ title:  Yesterday's Demon
 date:   2020-08-31T00:02:00Z
 image: yd-cover.jpg
 applebooks_url: TBD
-googleplay_url: TBD
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Yesterday_s_Demon?id=HpChEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
-kobo_url: TBD
-nook_url: TBD
+kobo_url: https://www.kobo.com/us/en/ebook/yesterday-s-demon
+nook_url: https://www.barnesandnoble.com/w/yesterdays-demon-elizabeth-myles/1142837181?ean=2940185675052
 smashwords_url: https://www.smashwords.com/books/view/1283098
 excerpt: /novels/yesterdays-demon/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
