@@ -5,7 +5,7 @@ book:  Yesterday's Demon
 slug: excerpt
 date:   2020-08-31T00:03:00Z
 image: yd-ebook.jpg
-applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/yesterdays-demon/id6445147604
 googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Yesterday_s_Demon?id=HpChEAAAQBAJ
 kindle_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/yesterday-s-demon
