@@ -4,11 +4,12 @@
 {% elsif page.categories contains "connected" %}
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}" title="About {{ page.title }}">collection info</a></li>{% endif %}
 {% if page.collection-applebooks_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-applebooks_url }}" title="Buy {{ page.collected_title }} on Apple Books">buy Apple Books collection</a></li>{% endif %}
-{% if page.collection-googleplay_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-googleplay_url }}" title="Buy {{ page.collected_title }} on Google Play">buy google play collection</a></li>{% endif %}
+{% if page.collection-googleplay_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-googleplay_url }}" title="Buy {{ page.collected_title }} on Google Play">buy Google Play collection</a></li>{% endif %}
 {% if page.collection-kindle_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-kindle_url }}" title="Buy {{ page.collected_title }} on Kindle">buy kindle collection</a></li>{% endif %}
 {% if page.collection-kobo_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-kobo_url }}" title="Buy {{ page.collected_title }} on Kobo">buy kobo collection</a></li>{% endif %}
 {% if page.collection-nook_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-nook_url }}" title="Buy {{ page.collected_title }} on Nook">buy nook collection</a></li>{% endif %}
 {% if page.collection-smashwords_url %}<li><a class="button special icon fa-shopping-cart" href="{{ page.collection-smashwords_url }}" title="Buy {{ page.collected_title }} on Smashwords">buy Smashwords collection</a></li>{% endif %}
+{% if page.connected-googleplay_url %}<li><a href="{{ page.connected-googleplay_url }}" class="button special icon fa-shopping-cart" title="Buy {{ page.title }} on Google Play">buy google play series</a></li>{% endif %}
 {% if page.connected-kindle_url %}<li><a href="{{ page.connected-kindle_url }}" class="button special icon fa-shopping-cart" title="Buy {{ page.title }} on Kindle">buy kindle series</a></li>{% endif %}
 {% if page.connected-kobo_url %}<li><a href="{{ page.connected-kobo_url }}" class="button special icon fa-shopping-cart" title="Buy {{ page.title }} on Kobo">buy kobo series</a></li>{% endif %}
 {% if page.connected-nook_url %}<li><a href="{{ page.connected-nook_url }}" class="button special icon fa-shopping-cart" title="Buy {{ page.title }} on Nook">buy nook series</a></li>{% endif %}
