@@ -1273,7 +1273,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.wrapper2 {
-		@include padding(1000px, 0);
+		@include padding(0.5em, 0);
 
 		&.style1 {
 			@include wrapper(accent1);
