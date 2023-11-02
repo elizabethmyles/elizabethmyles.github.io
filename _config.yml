@@ -5,7 +5,7 @@ owner: Elizabeth Myles # or company name
 first_published: 2011 # if migrating another site, the year of your first publish
 email: elizabeth@mylesandmyles.info
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.elizabethmyles.com" # the base hostname & protocol for your site
+url: "https://elizabethmyles.com" # the base hostname & protocol for your site
 future: true
 
 social:
