@@ -13,7 +13,7 @@ excerpt: /novellas/halloween-is-the-time-to-say-i-love-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
 goodreads: https://www.goodreads.com/book/show/62057280-halloween-is-the-time-to-say-i-love-you
 pages: 255
-cat: Fiction / Romance / New Adult / Contemporary
+cat: Fiction / Romance / New Adult / Contemporary / Holiday / Halloween
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false

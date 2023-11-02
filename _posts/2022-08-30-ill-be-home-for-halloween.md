@@ -13,7 +13,7 @@ excerpt: /novellas/ill-be-home-for-halloween/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
 goodreads: https://www.goodreads.com/book/show/62103635-i-ll-be-home-for-halloween
 pages: 277
-cat: Fiction / Romance / New Adult / Contemporary / Fantasy
+cat: Fiction / Romance / New Adult / Contemporary / Fantasy / Holiday / Halloween
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false

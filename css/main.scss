@@ -1272,6 +1272,27 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.wrapper2 {
+		@include padding(1000px, 0);
+
+		&.style1 {
+			@include wrapper(accent1);
+		}
+		
+		&.style2 {
+			background-color: _palette(bg);
+		}
+
+		&.style3 {
+			@include wrapper(accent5);
+		}
+
+		&.style4 {
+			background-color: transparent;
+		}
+
+	}
+
 /* Page Wrapper + Menu */
 
 	#page-wrapper {
@@ -1851,3 +1872,8 @@ $baseurl: '{{ site.baseurl }}/images';
 		background-color: #fff;
 		text-transform: uppercase;
 	}
+
+/* Toggle */
+	.detail {
+		display: none;
+}

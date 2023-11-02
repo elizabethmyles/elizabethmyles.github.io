@@ -22,11 +22,13 @@ layout: default
 
 			<h2>{{ page.title}}</h2>
 
+			{% if page.categories contains "soon" %}{% else %}
 			{% if page.slug == "excerpt" %}{% include buttons.html %}{% endif %}
-
+			{% endif %}
 			{{ content }}
-			{% if page.slug == "excerpt" %}<hr />
+			{% if page.slug == "excerpt" %}{% if page.categories contains "soon" %}{% else %}<hr />
 			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>.</p>
+			{% endif %}
 			{% endif %}
 			
 			{% include info.html %}

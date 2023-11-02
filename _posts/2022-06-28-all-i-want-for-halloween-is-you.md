@@ -13,7 +13,7 @@ excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
 pages: 277
-cat: Fiction / Romance / New Adult / Contemporary
+cat: Fiction / Romance / New Adult / Contemporary / Holiday / Halloween
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false

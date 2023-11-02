@@ -13,7 +13,7 @@ excerpt: /novellas/a-kiss-at-halloween/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/a-kiss-at-halloween/
 goodreads: https://www.goodreads.com/book/show/61201150-a-kiss-at-halloween
 pages: 213
-cat: Fiction / Romance / New Adult / Contemporary
+cat: Fiction / Romance / New Adult / Contemporary / Holiday / Halloween
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false

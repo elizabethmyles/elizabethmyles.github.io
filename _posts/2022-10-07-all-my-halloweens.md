@@ -13,7 +13,7 @@ excerpt: /novellas/all-my-halloweens/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-my-halloweens/
 goodreads: https://www.goodreads.com/book/show/62993103-all-my-halloweens
 pages: 354
-cat: Fiction / Romance / New Adult / Contemporary / Paranormal
+cat: Fiction / Romance / New Adult / Contemporary / Paranormal / Holiday / Halloween
 connected_name: Halloween Hearts
 connected_img: hh-banner.jpg
 comments: false

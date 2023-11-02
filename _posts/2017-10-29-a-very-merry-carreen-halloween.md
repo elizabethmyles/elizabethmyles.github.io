@@ -7,7 +7,7 @@ kindle_url: https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
 excerpt: /novellas/a-very-merry-carreen-halloween/excerpt/
 goodreads: https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween
 pages: 86
-cat: Fiction / Romance / Young Adult / Contemporary
+cat: Fiction / Romance / Young Adult / Contemporary / Holiday / Halloween
 connected_name: The Real You
 connected_img: tru-banner.jpg
 comments: false

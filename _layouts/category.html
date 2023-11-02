@@ -32,7 +32,8 @@ layout: default
 					<div class="4u">
 						<span class="image fit">
 							<a href="{{ post.url }}">
-							{% if post.image %}<img src="/images/{{ post.image }}" alt="{{ post.title }}" />{% else %}{{ post.title }}
+							{% if post.image2 %}<img src="/images/{{ post.image2 }}" alt="{{ post.title }}" />{% elsif post.image%}<img src="/images/{{ post.image }}" alt="{{ post.title }}" />
+							{% else %}{{ post.title }}
 							{% endif %}
 							</a>
 						</span>
