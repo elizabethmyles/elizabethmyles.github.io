@@ -8,11 +8,11 @@ applebooks_preorder: TBD
 googleplay_preorder: TBD
 kindle_preorder: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
 kobo_preorder: TBD
-nook_preorder: TBD
+nook_preorder: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
 smashwords_preorder: TBD
 excerpt: /novels/twelve-days/excerpt/
 pinterest: TBD
-goodreads: TBD
+goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 #pages: 354
 cat: Fiction / Romance / New Adult / Contemporary / Holiday / Christmas
 comments: false
