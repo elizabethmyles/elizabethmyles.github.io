@@ -10,7 +10,7 @@ categories:
 - short-stories
 ---
 
-"Ball and Chain" was the Third Place Prose Winner (tie) in the [2010 issue]({{ page.kindle_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
+"Ball and Chain" was the Third Place Prose Winner (tie) in the [2010 issue]({{ page.read_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
 [inkling]:https://www.lonestar.edu/inkling.htm

@@ -10,7 +10,7 @@ categories:
 - short-stories
 ---
 
-"Security Risks" was featured in the [2008 issue]({{ page.kindle_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
+"Security Risks" was featured in the [2008 issue]({{ page.read_url }}){: target="_blank"} of [*Inkling*][inkling]{: target="_blank"}, the creative
 arts magazine of [Lone Star College-Tomball][lsc]{: target="_blank"}.
 
 [inkling]:https://www.lonestar.edu/inkling.htm
