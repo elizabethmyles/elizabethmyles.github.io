@@ -24,7 +24,7 @@ slug: hillingham-hollow-romance
     4. [*I'll Be Home for Halloween*][ibhfh] (London and Clea)
     5. [*All My Halloweens*][amh] (Corvin and Joy)
   - Standalone novels
-    1. [*Twelve Days*][td] (Tali and Paul)
+    1. [*Twelve Days*][td] (Paul and Tali)
 
 
 <div class="box">

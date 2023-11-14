@@ -11,12 +11,20 @@ kobo_preorder: TBD
 nook_preorder: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
 smashwords_preorder: TBD
 excerpt: /novels/twelve-days/excerpt/
+connected_name: Hillingham Hollow Romance
+connected_img: hhr-banner.jpg
 pinterest: TBD
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 #pages: 354
 cat: Fiction / Romance / New Adult / Contemporary / Holiday / Christmas
 comments: false
 categories: novels
+tags:
+- new-adult
+- christmas
+- contemporary
+- clean
+- hillingham-hollow
 ---
 
 ### A sweet, stand-alone Christmas romance, available at a special introductory price for a limited time
