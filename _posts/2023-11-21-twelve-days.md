@@ -4,16 +4,16 @@ title: Twelve Days
 date: 2023-11-21
 image: td-cover.jpg
 image2: td-cover-2.jpg
-applebooks_preorder: TBD
-googleplay_preorder: TBD
+applebooks_preorder: https://books.apple.com/us/book/twelve-days-a-hillingham-hollow-romance/id6472092327
+googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_Twelve_Days?id=AOXiEAAAQBAJ
 kindle_preorder: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
-kobo_preorder: TBD
+kobo_preorder: https://www.kobo.com/us/en/ebook/twelve-days-a-hillingham-hollow-romance
 nook_preorder: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
-smashwords_preorder: TBD
+smashwords_url: https://www.smashwords.com/books/view/1479697
 excerpt: /novels/twelve-days/excerpt/
 connected_name: Hillingham Hollow Romance
 connected_img: hhr-banner.jpg
-pinterest: TBD
+pinterest: https://www.pinterest.com/tangentuniverse/twelve-days-a-hillingham-hollow-romance/
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 #pages: 354
 cat: Fiction / Romance / New Adult / Contemporary / Holiday / Christmas
@@ -35,5 +35,5 @@ The attraction between Tali and Paul is instant, but while Paul seems only inter
 
 *Content advisory:*  Twelve Days *is a kisses-only romance. The story includes discussions of cyber-harassment.*
 
-<br /><br /><br /><br /><br /><br />
+<br />
 {: }

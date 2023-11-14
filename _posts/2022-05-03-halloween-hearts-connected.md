@@ -30,7 +30,7 @@ Follow along as the weekend's Halloween carnival extravaganza unfolds, and passi
 ### More About the Series
 - ***Halloween Hearts*** is a contemporary New Adult small-town romance series. Some of the books contain fantasy/paranormal elements.
 - Each novella is approximately 50,000 – 55,000 words in length (approximately 200 – 250 printed pages) and **can be read as a standalone book**.
-- The stories range from sweet (kisses only) to a bit more sensual (see individual book descriptions for details)
+- The stories range from sweet (kisses only) to a bit more sensual (see individual book descriptions for details).
 - These books can be enjoyed in **any order**. The titles are as follows:
     1. [*A Kiss at Halloween*][akah] (Max and Kaelin) available May 2022
     2. [*All I Want for Halloween Is You*][aiwfh] (Clark and Iris) available June 2022
