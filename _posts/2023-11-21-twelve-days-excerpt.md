@@ -15,6 +15,8 @@ pinterest: TBD
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 #time: 18 minutes
 about: /novels/twelve-days/
+connected_name: Hillingham Hollow Romance
+connected_img: hhr-banner.jpg
 comments: false
 permalink: /novels/twelve-days/excerpt/
 categories: 

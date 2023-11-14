@@ -3,7 +3,7 @@
   <meta name="google" content="notranslate" />
   <meta http-equiv="Content-Language" content="en" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{{ site.title | escape }}{% if page.title %} &gt; {% assign rawtitle = page.title | replace: "-", " " | replace: "valentines", "valentine's" | split: ' ' %}{% capture titlecase %}{% for word in rawtitle %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <!--[if lte IE 8]><script src="{{ "/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
 
