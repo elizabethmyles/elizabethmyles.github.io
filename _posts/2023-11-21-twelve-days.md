@@ -7,7 +7,7 @@ image2: td-cover-2.jpg
 applebooks_preorder: https://books.apple.com/us/book/twelve-days-a-hillingham-hollow-romance/id6472092327
 googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_Twelve_Days?id=AOXiEAAAQBAJ
 kindle_preorder: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
-kobo_preorder: https://www.kobo.com/us/en/ebook/twelve-days-a-hillingham-hollow-romance
+kobo_preorder: TBD
 nook_preorder: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
 smashwords_url: https://www.smashwords.com/books/view/1479697
 excerpt: /novels/twelve-days/excerpt/
