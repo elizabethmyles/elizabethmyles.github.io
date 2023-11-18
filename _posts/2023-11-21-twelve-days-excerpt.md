@@ -14,6 +14,7 @@ smashwords_url: https://www.smashwords.com/books/view/1479697
 pinterest: https://www.pinterest.com/tangentuniverse/twelve-days-a-hillingham-hollow-romance/
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 #time: 18 minutes
+giveaway: td
 about: /novels/twelve-days/
 connected_name: Hillingham Hollow Romance
 connected_img: hhr-banner.jpg
@@ -28,7 +29,5 @@ categories:
 
 ### Excerpt coming soon!
 
-<br /><br />
-
-<!--iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0CMC412HR&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yfBqFbZBJNXZ8&tag=fearandlaun-20" ></iframe--> 
+<iframe type="text/html" width="650" height="675" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0CMC412HR&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yfBqFbZBJNXZ8&tag=fearandlaun-20" ></iframe> 
 
