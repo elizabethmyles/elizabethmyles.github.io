@@ -4,11 +4,11 @@ title: Twelve Days
 date: 2023-11-21
 image: td-cover.jpg
 image2: td-cover-2.jpg
-applebooks_preorder: https://books.apple.com/us/book/twelve-days-a-hillingham-hollow-romance/id6472092327
-googleplay_preorder: https://play.google.com/store/books/details/Elizabeth_Myles_Twelve_Days?id=AOXiEAAAQBAJ
-kindle_preorder: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
-kobo_preorder: TBD
-nook_preorder: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
+applebooks_url: https://books.apple.com/us/book/twelve-days-a-hillingham-hollow-romance/id6472092327
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Twelve_Days?id=AOXiEAAAQBAJ
+kindle_url: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
+kobo_url: https://www.kobo.com/us/en/ebook/twelve-days-15
+nook_url: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
 smashwords_url: https://www.smashwords.com/books/view/1479697
 excerpt: /novels/twelve-days/excerpt/
 connected_name: Hillingham Hollow Romance
@@ -16,7 +16,7 @@ connected_img: hhr-banner.jpg
 pinterest: https://www.pinterest.com/tangentuniverse/twelve-days-a-hillingham-hollow-romance/
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 giveaway: td
-#pages: 354
+pages: 355
 cat: Fiction / Romance / New Adult / Contemporary / Holiday / Christmas
 comments: false
 categories: novels
