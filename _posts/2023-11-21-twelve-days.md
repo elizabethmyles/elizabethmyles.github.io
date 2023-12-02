@@ -15,7 +15,7 @@ connected_name: Hillingham Hollow Romance
 connected_img: hhr-banner.jpg
 pinterest: https://www.pinterest.com/tangentuniverse/twelve-days-a-hillingham-hollow-romance/
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
-giveaway: td
+#giveaway: td
 pages: 355
 cat: Fiction / Romance / New Adult / Contemporary / Holiday / Christmas
 comments: false

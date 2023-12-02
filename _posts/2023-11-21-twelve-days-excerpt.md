@@ -14,7 +14,7 @@ smashwords_url: https://www.smashwords.com/books/view/1479697
 pinterest: https://www.pinterest.com/tangentuniverse/twelve-days-a-hillingham-hollow-romance/
 goodreads: https://www.goodreads.com/book/show/201289554-twelve-days
 time: 18 minutes
-giveaway: td
+#giveaway: td
 about: /novels/twelve-days/
 connected_name: Hillingham Hollow Romance
 connected_img: hhr-banner.jpg
