@@ -28,7 +28,7 @@ tags:
 - hillingham-hollow
 ---
 
-### A sweet, stand-alone Christmas romance, available at a special introductory price for a limited time
+### A sweet, stand-alone Christmas romance
 
 Starry-eyed college freshman Tali Torres must complete an intensive twelve day Christmas-themed video project for her internship at the community newspaper. At the same time, she’s intent on cleaning up her supervisor’s messy personal life before Christmas arrives. The workload is far too demanding for only one person, even someone as energetic and hard-working as Tali. Fortunately for her, twenty-one-year-old Paul Fleming, a handsome stranger only in town for the holidays, steps in to help.
 
