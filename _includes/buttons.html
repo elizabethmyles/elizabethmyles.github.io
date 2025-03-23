@@ -1,5 +1,5 @@
 <ul class="actions">
-{% if page.categories contains "short-stories-full-text" %}{% elsif page.categories contains "short-stories" %}{% if page.kindle_url %}<li><a href="{{ page.read_url }}" class="button special icon fa-book" target="_blank">Read</a></li>{% endif %}
+{% if page.categories contains "short-stories-full-text" %}{% elsif page.categories contains "short-stories" %}{% if page.read_url %}<li><a href="{{ page.read_url }}" class="button special icon fa-book" target="_blank">Read</a></li>{% endif %}
 
 {% elsif page.categories contains "connected" %}
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}" title="About {{ page.title }}">collection info</a></li>{% endif %}
