@@ -39,7 +39,7 @@ slug: hillingham-hollow-romance
 	</div>
 </div>
 
-[hh]:/connected/hillingham-hollow-romance/halloween-hearts/
+[hh]:/connected/halloween-hearts/
 [akah]:/novellas/a-kiss-at-halloween/
 [aiwfh]:/novellas/all-i-want-for-halloween-is-you/
 [hitt]:/novellas/halloween-is-the-time-to-say-i-love-you/
