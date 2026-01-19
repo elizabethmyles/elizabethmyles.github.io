@@ -9,6 +9,7 @@ kindle_url: https://www.amazon.com/dp/B08GX2S68R/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/yesterday-s-demon
 nook_url: https://www.barnesandnoble.com/w/yesterdays-demon-elizabeth-myles/1142837181?ean=2940185675052
 smashwords_url: https://www.smashwords.com/books/view/1283098
+books2read: https://books2read.com/u/4jGE5j
 excerpt: /novels/yesterdays-demon/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/55197927-yesterday-s-demon
@@ -19,6 +20,16 @@ cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
 <!--giveaway: yd-->
+tags:
+- new-adult
+- contemporary
+- vampires
+- witches
+- magic
+- 2-kisses-only
+- halloween
+- thanksgiving
+- vintage-meadow-lake
 ---
 
 **"Can yesterday's demon be the hero of today?"**

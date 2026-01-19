@@ -1877,3 +1877,25 @@ $baseurl: '{{ site.baseurl }}/images';
 	.detail {
 		display: none;
 }
+
+/* hr */
+    hr.small {
+		width: 75%;
+		margin: auto;
+		padding: 1em 0 1em 0;
+	}
+
+/* anchor */
+	a.anchor {
+		display: block;
+		position: relative;
+		top: -25px;
+		visibility: hidden;
+	}
+	
+	a.anchortop {
+		display: block;
+		position: relative;
+		top: -175px;
+		visibility: hidden;
+	}

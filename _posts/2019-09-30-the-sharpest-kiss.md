@@ -9,6 +9,7 @@ kindle_url: https://www.amazon.com/dp/B07YK9358M/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/the-sharpest-kiss
 nook_url: https://www.barnesandnoble.com/w/the-sharpest-kiss-elizabeth-myles/1142603583?ean=2940186643227
 smashwords_url: https://www.smashwords.com/books/view/1176584
+books2read: https://books2read.com/u/mgD5Pv
 excerpt: /novels/the-sharpest-kiss/excerpt/
 collected: /collections/the-sharpest-kiss-collection/
 goodreads: https://www.goodreads.com/book/show/48328046-the-sharpest-kiss
@@ -18,7 +19,13 @@ pages: 215
 cat: Fiction / Romance / New Adult / Paranormal
 comments: false
 categories: novels
-
+tags:
+- new-adult
+- contemporary
+- vampires
+- magic
+- vintage-meadow-lake
+- 3-mildly-spicy
 ---
 
 **Her handsome boss has just been turned into a vampire!**

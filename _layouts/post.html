@@ -18,10 +18,7 @@ layout: default
 			<a href="{% if page.about %}{{ page.about }}{% elsif page.kindle_url %}{{ page.kindle_url }}{% elsif page.read_url %}{{ page.read_url }}{% endif %}" target="_blank" title="{% if page.book %}{{ page.book }}{% else %}{{ page.title }}{% endif %}">{% endif %}
 				<img src="/images/{{ page.image }}" alt="{{ page.title }} Cover" />{% if page.kindle_url or page.read_url or page.about %}</a>{% endif %}
 			</p>
-			
-
 			<h2>{{ page.title}}</h2>
-
 			{% if page.categories contains "soon" %}{% else %}
 			{% if page.slug == "excerpt" %}{% include buttons.html %}{% endif %}
 			{% endif %}
@@ -30,31 +27,25 @@ layout: default
 			<p>This is an excerpt from <a href="{{ page.about }}"><em>{{ page.book }}</em></a>.</p>
 			{% endif %}
 			{% endif %}
-			
-			{% include info.html %}
-			
+			{% include info.html %}	
 			{% if page.giveaway %}{% include giveaway-{{ page.giveaway }}.html %}<br />{% endif %}
+
+			{% if page.pub %}
+			<p class="image">
+				<a href="{% if page.read_url %}{{ page.read_url }}{% endif %}" target="_blank" title="{{ page.pub }}">
+				{% if page.pub_image %}<img src="/images/{{ page.pub_image }}" alt="{{ page.pub }}" />
+					{% else %}<em>{{ page.pub }}</em><br />
+				{% endif %}
+				</a>
+			</p>
+			{% endif %}
 			
 			{% include buttons.html %}
 			{% if page.categories contains "short-stories-full-text" %}
 			{% elsif page.categories contains "short-stories" %}
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+				{% if page.pub_image %}{% else %}<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />{% endif %}
 			{% endif %}
-			
+			<br />			
 			{% if page.connected_img %}<p class="image fit">
 				<a href="/connected/{{ page.connected_name | slugify }}/">
 					<img src="/images/{{ page.connected_img }}" alt="{{ page.connected_name }}" title="{{ page.connected_name }} series" />

@@ -11,6 +11,7 @@ kindle_url: https://www.amazon.com/gp/product/B0BBF7ZX1Q/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/i-ll-be-home-for-halloween
 nook_url: https://www.barnesandnoble.com/w/ill-be-home-for-halloween-elizabeth-myles/1141981536?ean=2940185852484
 smashwords_url: https://www.smashwords.com/books/view/1159786
+books2read: https://books2read.com/u/3LLdN1
 pinterest: https://www.pinterest.com/tangentuniverse/ill-be-home-for-halloween/
 goodreads: https://www.goodreads.com/book/show/62103635-i-ll-be-home-for-halloween
 time: 18 minutes

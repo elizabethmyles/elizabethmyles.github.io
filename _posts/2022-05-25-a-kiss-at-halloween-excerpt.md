@@ -11,6 +11,7 @@ kindle_url: https://www.amazon.com/dp/B0B2CV67SX/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/a-kiss-at-halloween
 nook_url: https://www.barnesandnoble.com/w/a-kiss-at-halloween-elizabeth-myles/1141549182?ean=2940185753002
 smashwords_url: https://www.smashwords.com/books/view/1149105
+books2read: https://books2read.com/u/m2B6QG
 time: 20 minutes
 about: /novellas/a-kiss-at-halloween/
 pinterest: https://www.pinterest.com/tangentuniverse/a-kiss-at-halloween/

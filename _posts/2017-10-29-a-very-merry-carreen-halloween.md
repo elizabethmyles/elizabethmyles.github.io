@@ -12,6 +12,13 @@ connected_name: The Real You
 connected_img: tru-banner.jpg
 comments: false
 categories: novellas
+tags:
+- new-adult
+- contemporary
+- halloween
+- small-town
+- carreen
+- 3-mildly-spicy
 ---
 
 ### A [*The Real You*][tru] Bonus Holiday Special

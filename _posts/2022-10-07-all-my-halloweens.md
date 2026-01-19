@@ -9,6 +9,7 @@ kindle_url: https://www.amazon.com/gp/product/B0BHPK1CZJ/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/all-my-halloweens
 nook_url: https://www.barnesandnoble.com/w/all-my-halloweens-elizabeth-myles/1142467954?ean=2940186698685
 smashwords_url: https://www.smashwords.com/books/view/1169142
+books2read: https://books2read.com/u/bP8zNr
 excerpt: /novellas/all-my-halloweens/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-my-halloweens/
 goodreads: https://www.goodreads.com/book/show/62993103-all-my-halloweens
@@ -19,6 +20,19 @@ connected_img: hh-banner.jpg
 comments: false
 categories: novellas
 #giveaway: ibhfh
+tags:
+- new-adult
+- halloween
+- wedding
+- contemporary
+- vampires
+- witches
+- magic
+- musicians
+- fake-dating
+- hillingham-hollow
+- sunshine-grump
+- 3-mildly-spicy
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...

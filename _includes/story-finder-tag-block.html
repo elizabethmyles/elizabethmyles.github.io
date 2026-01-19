@@ -1,0 +1,38 @@
+{% assign parent = include.parent | strip | newline_to_br | strip_newlines %}
+{% assign tag_array = include.tags | strip | newline_to_br | strip_newlines | split: "," %}
+{% for tag_name in tag_array %}
+{% if tag_array.size > 1 %}
+<a class="anchor" id="{{ tag_name }}"></a>
+##### {{ tag_name | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}
+{% endif %}
+<div class="box alt">
+  <div class="row uniform 50%">
+    {% assign tag_posts = site.tags[tag_name] %}
+    {% for post in tag_posts limit: 4 %}
+    <div class="3u">
+      <span class="image">
+        <a href="{{ post.url }}" title="{{ post.title }}">
+        {% if post.image %}
+        <img src="/images/{{ post.image | replace: ".jpg", "-small.jpg" }}" alt="{{ post.title }}" />
+        {% else %}
+        {{ post.title }}
+        {% endif %}
+        </a>
+      </span>
+    </div>
+    {% endfor %}
+  </div>
+  {% assign remaining = tag_posts.size | minus: 4 %}
+  {% if remaining > 0 %}
+  <br /><a href="{{ tag_name }}/">+ {{ remaining }} more</a>
+  {% endif %}
+</div>
+{% assign rawtitle = tag_name | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" | split: ' ' %}
+{% capture titlecase %}{% for word in rawtitle %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+<a class="button special" href="{{ tag_name }}/" title="All {{ titlecase }}Stories">All {{ titlecase }}Stories</a>
+<br />
+<h6 style="text-align:center;"><a href="#{{ parent }}">back to {{ parent | replace: "-", " " }}</a> | <a href="#top">back to top</a></h6>
+{% if forloop.last == false %}
+<hr class="small" />
+{% endif %}
+{% endfor %}

@@ -10,6 +10,7 @@ googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_All_
 kindle_url: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
 nook_url: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
+books2read: https://books2read.com/u/b5RBq1
 smashwords_url: https://www.smashwords.com/books/view/1153767
 time: 23 minutes
 about: /novellas/all-i-want-for-halloween-is-you/

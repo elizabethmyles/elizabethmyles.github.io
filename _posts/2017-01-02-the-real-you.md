@@ -19,6 +19,14 @@ connected_name: The Real You
 connected_img: tru-banner.jpg
 comments: false
 categories: novels
+tags:
+- young-adult
+- contemporary
+- valentines-day
+- 2-kisses-only
+- carreen
+- fake-dating
+- friends-to-lovers
 ---
 
 **Her best friend is the hottest guy in school...**

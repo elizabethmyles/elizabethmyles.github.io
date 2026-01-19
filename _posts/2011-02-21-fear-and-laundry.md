@@ -21,6 +21,13 @@ weight: 1.13 lbs
 cat: Fiction / Romance / Young Adult / Contemporary
 comments: false
 categories: novels
+tags:
+- young-adult
+- 1990s
+- best-friends-brother
+- carreen
+- musicians
+- 2-kisses-only
 ---
 
 Veronica Montez loves horror movies. Fake blood, guts, and machete-wielding maniacs don’t scare her. Real life does.

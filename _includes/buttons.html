@@ -20,6 +20,7 @@
 
 {% if page.slug == "excerpt" %}<li><a class="button icon fa-book" href="{{ page.about }}" title="About {{ page.book}}">about</a></li>{% else %}<li><a class="button icon fa-book" href="{{ page.excerpt }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} Excerpt">excerpt</a></li>{% endif %}
 
+<!--{% if page.books2read %}<li><a class="button special icon fa-book" href="{{ page.books2read }}" title="Buy {% if page.book %}{{ page.book }}{% else %}{{ page.title }}{% endif %}">buy</a></li>{% endif %}<--!>
 {% if page.applebooks_url %}
 {% if page.applebooks_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Apple Books (Soon!)</a></li>{% endif %}
 {% if page.applebooks_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.applebooks_url }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} on Apple Books">Apple Books</a></li>{% endif %}
@@ -82,6 +83,7 @@
 
 {% if page.buy_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_print }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} in Print">print</a></li>{% endif %}
 {% if page.preorder_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.preorder_print }}">pre-order print</a></li>{% endif %}
+
 
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}" title="{% if page.connected_name %}{{ page.connected_name }} Collection{% endif %}">collection</a></li>{% endif %}
 {% if page.connected_name %}<li><a class="button special icon fa-chain" href="/connected/{{ page.connected_name | slugify }}/" title="{% if page.connected_name %}About Works Connected to {{ page.connected_name }}{% endif %}">connected</a></li>{% endif %}

@@ -14,6 +14,14 @@ connected_name: Fear and Laundry
 connected_img: fal-banner.jpg
 categories:
 - novels
+tags:
+- young-adult
+- 1990s
+- carreen
+- thanksgiving
+- musicians
+- best-friends-brother
+- 3-mildly-spicy
 ---
 
 *“I don’t know, you guys,” I said. “I’m starting to worry I’m not cut out for this relationship stuff. You know, not if it’s going to be this complicated.”*

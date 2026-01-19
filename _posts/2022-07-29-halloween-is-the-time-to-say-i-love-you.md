@@ -9,6 +9,7 @@ kindle_url: https://www.amazon.com/gp/product/B0B669531C/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/halloween-is-the-time-to-say-i-love-you
 nook_url: https://www.barnesandnoble.com/w/books/1141750818?ean=2940186726296
 smashwords_url: https://www.smashwords.com/books/view/1158245
+books2read: https://books2read.com/u/4A1LRN
 excerpt: /novellas/halloween-is-the-time-to-say-i-love-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/halloween-is-the-time-to-say-i-love-you/
 goodreads: https://www.goodreads.com/book/show/62057280-halloween-is-the-time-to-say-i-love-you
@@ -19,6 +20,15 @@ connected_img: hh-banner.jpg
 comments: false
 categories: novellas
 #giveaway: aiwfh
+tags:
+- new-adult
+- halloween
+- contemporary
+- different-sides-of-the-tracks
+- hillingham-hollow
+- second-chance-romance
+- love-at-first-sight
+- 2-kisses-only
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...
