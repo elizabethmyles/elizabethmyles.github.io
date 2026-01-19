@@ -1,3 +1,3 @@
-# www.elizabethmyles.com
+# elizabethmyles.com
 
-Website of [Elizabeth Myles](http://www.elizabethmyles.com/)
+Website of [Elizabeth Myles](http://elizabethmyles.com/)
