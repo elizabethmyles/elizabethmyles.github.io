@@ -31,7 +31,7 @@
 {% capture titlecase %}{% for word in rawtitle %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 <a class="button special" href="{{ tag_name }}/" title="All {{ titlecase }}Stories">All {{ titlecase }}Stories</a>
 <br />
-<h6 style="text-align:center;"><a href="#{{ parent }}">back to {{ parent | replace: "-", " " }}</a> | <a href="#top">back to top</a></h6>
+<h6 style="text-align:center;">{% if tag_array.size > 1 %}<a href="#{{ parent }}">back to {{ parent | replace: "-", " " }}</a> | {% endif %}<a href="#top">back to top</a></h6>
 {% if forloop.last == false %}
 <hr class="small" />
 {% endif %}

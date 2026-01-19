@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
+{% assign tagname = page.tag %}
 <article id="main">
   <header>
-    <h2>{{ page.title | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}</h2>
+    <h2>{{ page.tag | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}</h2>
   </header>
 {% include breadcrumb.html %}
   <section class="wrapper style5">
     <div class="inner">
-		<h2>{{ page.title | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}</h2>
+		<h2>{{ page.tag | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}</h2>
 		<div class="box alt">
 			<div class="row uniform 50%">
-				{% for post in page.posts %}
+				{% for post in site.tags[tagname] %}
 					{% if post.slug != 'excerpt' %}
 					<div class="4u">
 						<span class="image fit">

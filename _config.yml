@@ -31,15 +31,3 @@ google_analytics: UA—15892472-11
 markdown: kramdown
 #sass:
 #  style: compressed
-
-# Archives
-jekyll-archives:
-  enabled:
-    - tags
-  layouts:
-    tag: tag
-  permalinks:
-    tag: '/story-finder/:name/' 
-  
-plugins:
-  - jekyll-archives

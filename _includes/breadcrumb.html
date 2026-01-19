@@ -1,9 +1,10 @@
 <span class="breadcrumb" id="nav">
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign name = page.title | default: page.tag %}
 <a href="/">Home</a>
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
-    &raquo; {% if crumb == 'excerpt' %} Excerpt{% else %}{{ page.title | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}{% endif %}
+    &raquo; {% if crumb == 'excerpt' %} Excerpt{% else %}{{ name | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}{% endif %}
   {% else %}
     &raquo; <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == 'connected' %} Connected Books{% else %}{{ crumb | replace:'-',' ' | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "2 k", "2 - k" | replace: "3 m", "3 - m" }}{% endif %}</a>
   {% endif %}
