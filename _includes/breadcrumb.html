@@ -4,9 +4,9 @@
 <a href="/">Home</a>
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
-    &raquo; {% if crumb == 'excerpt' %} Excerpt{% else %}{{ name | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "level 2 5", "level 2.5 (closed door/sensual)" | replace: "level 2", "heat level 2 (kisses only)" | replace: " (kisses only).5", ".5" | replace: "heat level 3 3 5", "heat level 3-3.5 (mildly spicy)" }}{% endif %}
+    &raquo; {% if crumb == 'excerpt' %} Excerpt{% else %}{{ name | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "level 2 5", "heat level 2.5 (closed door/sensual)" | replace: "level 2", "heat level 2 (kisses only)" | replace: " (kisses only).5", ".5" | replace: "level 3 3 5", "heat level 3-3.5 (mildly spicy)" }}{% endif %}
   {% else %}
-    &raquo; <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == 'connected' %} Connected Books{% else %}{{ crumb | replace:'-',' ' | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "level 2 5", "level 2.5 (closed door/sensual)" | replace: "level 2", "heat level 2 (kisses only)" | replace: " (kisses only).5", ".5" | replace: "heat level 3 3 5", "heat level 3-3.5 (mildly spicy)" }}{% endif %}</a>
+    &raquo; <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if crumb == 'connected' %} Connected Books{% else %}{{ crumb | replace:'-',' ' | replace: "-", " " | replace: "valentines", "valentine's" | replace: "best friends", "best friend's" | replace: "sunshine grump", "sunshine/grump" | replace: "level 2 5", "heat level 2.5 (closed door/sensual)" | replace: "level 2", "heat level 2 (kisses only)" | replace: " (kisses only).5", ".5" | replace: "level 3 3 5", "heat level 3-3.5 (mildly spicy)" }}{% endif %}</a>
   {% endif %}
 {% endfor %}
 </span>
