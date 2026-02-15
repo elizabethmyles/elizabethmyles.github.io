@@ -28,7 +28,7 @@ tags:
 - hillingham-hollow
 - second-chance-romance
 - love-at-first-sight
-- 2-kisses-only
+- level-2
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...

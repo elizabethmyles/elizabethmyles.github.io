@@ -29,7 +29,7 @@ tags:
 - fake-dating
 - hillingham-hollow
 - second-chance-romance
-- 2-kisses-only
+- level-2
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...

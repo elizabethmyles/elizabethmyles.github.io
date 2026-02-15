@@ -588,6 +588,11 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
+		&.heart {
+			list-style: '\2665';
+			margin-left: -0.25em;
+		}
+
 		&.icons {
 			cursor: default;
 			list-style: none;
@@ -720,6 +725,7 @@ $baseurl: '{{ site.baseurl }}/images';
 						}
 					}
 				}
+				
 			}
 		}
 	}

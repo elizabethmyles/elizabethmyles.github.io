@@ -26,7 +26,7 @@ tags:
 - vampires
 - witches
 - magic
-- 2-kisses-only
+- level-2
 - halloween
 - thanksgiving
 - vintage-meadow-lake

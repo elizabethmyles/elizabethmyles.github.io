@@ -27,25 +27,43 @@ tags:
 - best-friends-brother
 - carreen
 - musicians
-- 2-kisses-only
+- level-2
 ---
 
-Veronica Montez loves horror movies. Fake blood, guts, and machete-wielding maniacs don’t scare her. Real life does.
+***Classic scary movies, rock music, VHS tapes, zines, and cassettes…let the teen romance of Fear and Laundry take you back to the '90s.***
 
-She dreads folding towels in the Crawford Hotel’s creepy basement laundry for the rest of her life, but hasn’t got a clue what more to do after graduation. Even if she did, her grades suck so bad she’ll be lucky to even make it out of high school.
+- Friends-to-lovers
+- Musician hero
+- Best friend's brother
+- '90s nostalgia
+- A complete, stand-alone story
+{: .heart}
 
-In the meantime, her friend Lia’s demanding her help rescuing Lynch’s, their favorite hangout, from financial ruin. Veronica would hate to see the grungy Laundromat-slash-rock venue go under, but the idea of performing with Lia’s band in Lynch’s upcoming fundraiser petrifies her. She’s no rock star. She’s never participated in a gig beyond writing about it for Lia’s zine. And Lia’s additional scheme to lure hometown punk hero, Clyde Kameron, to the benefit freaks Veronica out way more than *The Texas Chainsaw Massacre*.
+Veronica Montez loves scary movies. Fake blood, guts, and machete-wielding maniacs don't scare her. Real life does.
 
-Then Lia’s brother Jake unexpectedly returns to town from college. Veronica bonds with the gifted but temperamental guitarist over their affinity for gory flicks and soon discovers he’s as ambivalent about his future as she is. Talk about terrifying. If someone as smart and talented as Jake can’t figure things out, what hope does Veronica have?
+Veronica dreads spending the rest of her life folding towels in the Crawford Hotel's creepy basement laundry, but she hasn't got a clue what else to do after graduation. Even if she did, her grades suck so bad that she'll be lucky to even make it out of high school.
 
-Really Liking Jake scares her, too, though she can’t decide if she’s more afraid he won’t like her back or that he will. Her exes were only ever interested in fooling around. Something tells her Jake wouldn’t be. And while movie monsters might not faze her, the thought of risking her heart in a real relationship sends serious chills up Veronica’s spine.
+In the meantime, her best friend Lia is demanding her help rescuing Lynch's, their favorite hangout, from financial ruin. Veronica would hate to see the grungy Laundromat-slash-rock venue go under, but the idea of performing with Lia's band in Lynch's upcoming fundraiser petrifies her. She's no rock star. She's never participated in a gig beyond writing about it for Lia's zine. And that's not to even mention Lia's additional plan to lure hometown punk hero, Clyde Kameron, to the benefit concert. Just the idea of trying to pull off that particularly harebrained scheme freaks Veronica out more than The Texas Chainsaw Massacre.
 
-(*Fear and Laundry* was honored as a notable entry in the teen category of [*Shelf Unbound Magazine*][shelfunbound]’s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp].)
+Then Lia's brother Jake unexpectedly returns to town from college. Veronica bonds with the gifted but temperamental guitarist over their affinity for gory flicks and soon discovers he's as ambivalent about his future as she is. Talk about terrifying. If someone as smart and talented as Jake can't figure things out, what hope does Veronica have?
+
+Really Liking Jake scares her, too, although she can't decide if she's more afraid that he won't like her back, or that he will. Veronica's exes were only ever interested in fooling around. Something tells her Jake would want more from her. A whole lot more.
+
+And while movie monsters might not faze her, the thought of risking her heart in a real relationship sends serious chills up Veronica's spine.
+
+#### More About the Book
+- A lighthearted, humorous YA romance
+- Told in first person from Veronica’s POV
+- Approximately 86,000 words in length
+- Includes an excerpt from [*Fear and Laundry 2*][fal2]
+- Contains PG-13 content (kissing, some crude humor and swearing)
+- *Fear and Laundry* was honored as a notable entry in the teen category of [*Shelf Unbound Magazine*][shelfunbound]'s [2013 Writing Competition for Best Independently Published Book][shelfunboundcomp].
+{: .heart}
 
 #### Associated Titles
-
 - *Fear and Laundry* is followed by [*Fear and Laundry 2*][fal2], and shares a setting and some characters with [*The Real You*][tru].
 - *Fear and Laundry* and [*Fear and Laundry 2*][fal2] are now available in a [two book collection][collected].
+{: .heart}
 
 [shelfunbound]:http://www.shelfmediagroup.com/pages/issues.html
 [shelfunboundcomp]:https://issuu.com/shelfunbound/docs/shelf_unbound_december-january_2014

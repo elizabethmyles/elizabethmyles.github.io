@@ -13,7 +13,7 @@ categories:
 tags:
 - new-adult
 - contemporary
-- 2-kisses-only
+- level-2
 - free
 - second-chance-romance
 ---

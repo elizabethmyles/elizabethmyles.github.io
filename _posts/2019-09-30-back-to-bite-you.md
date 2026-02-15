@@ -25,7 +25,7 @@ tags:
 - vampires
 - magic
 - vintage-meadow-lake
-- 3-mildly-spicy
+- level-3-3-5
 ---
 
 ***"Why did all the good ones have to be undead? And staunchly opposed to dating the living?"***

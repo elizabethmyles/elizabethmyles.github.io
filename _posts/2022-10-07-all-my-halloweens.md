@@ -32,7 +32,7 @@ tags:
 - fake-dating
 - hillingham-hollow
 - sunshine-grump
-- 3-mildly-spicy
+- level-2-5
 ---
 
 ### This Halloween, lose your heart in Hillingham Hollow...

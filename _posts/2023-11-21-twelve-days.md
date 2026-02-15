@@ -25,7 +25,7 @@ tags:
 - new-adult
 - christmas
 - contemporary
-- 2-kisses-only
+- level-2
 - hillingham-hollow
 - friends-to-lovers
 ---

@@ -21,7 +21,7 @@ tags:
 - thanksgiving
 - musicians
 - best-friends-brother
-- 3-mildly-spicy
+- level-2-5
 ---
 
 *“I don’t know, you guys,” I said. “I’m starting to worry I’m not cut out for this relationship stuff. You know, not if it’s going to be this complicated.”*
