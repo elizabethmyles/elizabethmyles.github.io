@@ -5,7 +5,12 @@ book:  A Very Merry Carreen Halloween
 slug: excerpt
 date:   2017-10-27
 image: vmch-ebook.jpg
+applebooks_url: TBD
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B076YZQ4W5/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: TBD
+smashwords_url: TBD
 time: 15 minutes
 about: /novellas/a-very-merry-carreen-halloween/
 goodreads: https://www.goodreads.com/book/show/36498173-a-very-merry-carreen-halloween

@@ -3,7 +3,12 @@ layout: post
 title:  Fear and Laundry Parts 1 & 2
 date:   2021-04-01T00:00:00Z
 image: fal-set-cover.jpg
+applebooks_url: TBD
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B091G3JHBT/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: TBD
+smashwords_url: TBD
 excerpt: /novels/fear-and-laundry/excerpt/
 goodreads: https://www.goodreads.com/book/show/57984084-fear-and-laundry-parts-1-2
 year: 2021 (contains material originally published 2011-2014)
@@ -25,6 +30,7 @@ It's 1994, and seventeen-year-old Veronica Montez has a few things she needs to 
 - Keep her grades above a C average so she can actually graduate from high school on time.
 - Get over her hopeless crush on her best friend's sexy, super talented, guitar-playing older brother.
 - And, oh, yeah...figure out what to do with the rest of her entire life.
+{: .heart}
 
 Something tells her a few of these tasks might prove more difficult than the others.
 
@@ -35,6 +41,7 @@ This collection of *Fear and Laundry* includes books [one][fal] and [two][fal2] 
 #### Associated Titles
 
 - [*Fear and Laundry*][fal] and [*Fear and Laundry 2*][fal2] share a setting and some characters with [*The Real You*][tru].
+{: .heart}
 
 [fal]:/novels/fear-and-laundry/
 [fal2]:/novels/fear-and-laundry-2/

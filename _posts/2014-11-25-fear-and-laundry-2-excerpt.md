@@ -5,7 +5,12 @@ book:  Fear and Laundry 2
 slug: excerpt
 date:   2014-11-25
 image: fal2-ebook.jpg
+applebooks_url: TBD
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: TBD
+smashwords_url: TBD
 about: /novels/fear-and-laundry-2/
 collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/24367903-fear-and-laundry-2

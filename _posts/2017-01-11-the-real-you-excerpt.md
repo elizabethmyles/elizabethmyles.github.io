@@ -5,8 +5,15 @@ book:  The Real You
 slug: excerpt
 date:  2017-01-11
 image: tru-book.jpg
+applebooks_url: https://books.apple.com/us/book/the-real-you/id6759630526
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: TBD
+smashwords_url: https://www.smashwords.com/books/view/1976784
 buy_print: https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
+excerpt: /novels/the-real-you/excerpt/
+goodreads: https://www.goodreads.com/book/show/33845214-the-real-you
 about: /novels/the-real-you/
 goodreads: https://www.goodreads.com/book/show/33845214-the-real-you
 connected_name: The Real You

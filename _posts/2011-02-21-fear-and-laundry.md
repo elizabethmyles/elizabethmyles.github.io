@@ -3,7 +3,12 @@ layout: post
 title:  Fear and Laundry
 date:   2011-02-21
 image: fal-cover.jpg
+applebooks_url: https://books.apple.com/us/book/fear-and-laundry/id6759629722
+googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B004OYTP3G/?tag=fearandlaun-20
+kobo_url: TBD
+nook_url: https://www.barnesandnoble.com/w/fear-and-laundry-elizabeth-myles/1102740222?ean=2940012372222
+smashwords_url: https://www.smashwords.com/books/view/1976774
 buy_print: https://www.amazon.com/dp/1456575570/?tag=fearandlaun-20
 excerpt: /novels/fear-and-laundry/excerpt/
 collected: /collections/fear-and-laundry-parts-1-and-2/

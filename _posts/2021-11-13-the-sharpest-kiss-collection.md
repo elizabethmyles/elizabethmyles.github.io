@@ -3,12 +3,12 @@ layout: post
 title:  The Sharpest Kiss Collection
 date:   2021-11-13T00:00:00Z
 image: tsk-set-cover.jpg
-applebooks_url: TBD
+applebooks_url: https://books.apple.com/us/book/the-sharpest-kiss-collection/id6759671319
 googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
 kobo_url: TBD
-nook_url: TBD
-smashwords_url: TBD
+nook_url: https://www.barnesandnoble.com/w/the-sharpest-kiss-collection-elizabeth-myles/1149565299?ean=2940185016381
+smashwords_url: https://www.smashwords.com/books/view/1977132
 excerpt: /novels/the-sharpest-kiss/excerpt/
 goodreads: https://www.goodreads.com/book/show/59637935-the-sharpest-kiss-collection
 year: 2021 (contains material originally published 2019-2020)

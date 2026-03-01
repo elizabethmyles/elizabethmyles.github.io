@@ -10,7 +10,12 @@ connected-smashwords_url: https://www.smashwords.com/books/byseries/70742
 connected-googleplay_url: https://play.google.com/store/books/series?id=Tc4uGwAAABBi1M
 collected_title: The Sharpest Kiss Collection
 collected: /collections/the-sharpest-kiss-collection/
+collection-applebooks_url: https://books.apple.com/us/book/the-sharpest-kiss-collection/id6759671319
+#collection-googleplay_url: 
 collection-kindle_url: https://www.amazon.com/dp/B09LTGF2GM/?tag=fearandlaun-20
+#collection-kobo_url: 
+collection-nook_url: https://www.barnesandnoble.com/w/the-sharpest-kiss-collection-elizabeth-myles/1149565299?ean=2940185016381
+collection-smashwords_url: https://www.smashwords.com/books/view/1977132
 comments: false
 categories: connected
 slug: the-sharpest-kiss

@@ -3,6 +3,11 @@ layout: post
 title:  The Real You Series
 date:   2017-10-30
 image: tru-connected-covers.jpg
+#connected-kindle_url: https://www.amazon.com/dp/B0GPYH1PC9?tag=fearandlaun-20
+#connected-kobo_url: https://www.kobo.com/us/en/search?acp=elizabeth+myles&sort=Temperature&fcsearchfield=Series&seriesId=a4a9b162-1559-53e7-91cb-5496b04db653&query=The+Real+You
+#connected-nook_url: https://www.barnesandnoble.com/s/%22The+Real+You%22?Ntk=P_Series_Title&Ns=P_Series_Number&Ntx=mode+matchall
+#connected-smashwords_url: https://www.smashwords.com/books/byseries/70742
+#connected-googleplay_url: 
 comments: false
 categories: connected
 slug: the-real-you
