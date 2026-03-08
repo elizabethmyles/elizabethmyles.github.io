@@ -9,7 +9,7 @@ applebooks_url: https://books.apple.com/us/book/the-real-you/id6759630526
 googleplay_url: TBD
 kindle_url: https://www.amazon.com/dp/B01NASEOHI/?tag=fearandlaun-20
 kobo_url: TBD
-nook_url: TBD
+nook_url: https://www.barnesandnoble.com/w/the-real-you-elizabeth-myles/1149640233?ean=2940185072912
 smashwords_url: https://www.smashwords.com/books/view/1976784
 buy_print: https://www.amazon.com/dp/154843356X/?tag=fearandlaun-20
 excerpt: /novels/the-real-you/excerpt/
