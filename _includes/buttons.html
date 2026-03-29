@@ -81,9 +81,16 @@
 {% if page.smashwords_preorder <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.smashwords_preorder }}">pre-order on smashwords</a></li>{% endif %}
 {% endif %}
 
-{% if page.buy_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_print }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} in Print">print</a></li>{% endif %}
-{% if page.preorder_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.preorder_print }}">pre-order print</a></li>{% endif %}
+{% if page.books2read_url %}
+{% if page.books2read_url == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">Other Stores (Soon!)</a></li>{% endif %}
+{% if page.books2read_url <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.books2read_url }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} in Other Stores">Other Stores</a></li>{% endif %}
+{% endif %}
 
+{% if page.buy_print %}
+{% if page.buy_print == "TBD" %}<li><a class="button special disabled icon fa-shopping-cart">print (soon!)</a></li>{% endif %}
+{% if page.buy_print <> "TBD" %}<li><a class="button special icon fa-shopping-cart" href="{{ page.buy_print }}" title="{% if page.book %}{{ page.book}}{% else %}{{ page.title }}{% endif %} in Print">print</a></li>{% endif %}
+{% endif %}
+{% if page.preorder_print %}<li><a class="button special icon fa-shopping-cart" href="{{ page.preorder_print }}">pre-order print</a></li>{% endif %}
 
 {% if page.collected %}<li><a class="button special icon fa-book" href="{{ page.collected }}" title="{% if page.connected_name %}{{ page.connected_name }} Collection{% endif %}">collection</a></li>{% endif %}
 {% if page.connected_name %}<li><a class="button special icon fa-chain" href="/connected/{{ page.connected_name | slugify }}/" title="{% if page.connected_name %}About Works Connected to {{ page.connected_name }}{% endif %}">connected</a></li>{% endif %}

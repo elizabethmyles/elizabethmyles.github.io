@@ -9,7 +9,7 @@ kindle_url: https://www.amazon.com/dp/B0B2CV67SX/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/a-kiss-at-halloween
 nook_url: https://www.barnesandnoble.com/w/a-kiss-at-halloween-elizabeth-myles/1141549182?ean=2940185753002
 smashwords_url: https://www.smashwords.com/books/view/1149105
-books2read: https://books2read.com/u/m2B6QG
+books2read_url: https://books2read.com/u/m2B6QG
 excerpt: /novellas/a-kiss-at-halloween/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/a-kiss-at-halloween/
 goodreads: https://www.goodreads.com/book/show/61201150-a-kiss-at-halloween

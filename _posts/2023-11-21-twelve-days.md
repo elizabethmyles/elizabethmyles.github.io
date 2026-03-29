@@ -10,7 +10,7 @@ kindle_url: https://www.amazon.com/dp/B0CMC412HR/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/twelve-days-15
 nook_url: https://www.barnesandnoble.com/w/twelve-days-elizabeth-myles/1144329915?ean=2940185882962
 smashwords_url: https://www.smashwords.com/books/view/1479697
-books2read: https://books2read.com/u/471RVA
+books2read_url: https://books2read.com/u/471RVA
 excerpt: /novels/twelve-days/excerpt/
 connected_name: Hillingham Hollow Romance
 connected_img: hhr-banner.jpg

@@ -9,7 +9,7 @@ kindle_url: https://www.amazon.com/dp/B0B2VDNNDR/?tag=fearandlaun-20
 kobo_url: https://www.kobo.com/us/en/ebook/all-i-want-for-halloween-is-you
 nook_url: https://www.barnesandnoble.com/w/all-i-want-for-halloween-is-you-elizabeth-myles/1141587104?ean=2940186582212
 smashwords_url: https://www.smashwords.com/books/view/1153767
-books2read: https://books2read.com/u/b5RBq1
+books2read_url: https://books2read.com/u/b5RBq1
 excerpt: /novellas/all-i-want-for-halloween-is-you/excerpt/
 pinterest: https://www.pinterest.com/tangentuniverse/all-i-want-for-halloween-is-you/
 goodreads: https://www.goodreads.com/book/show/61204915-all-i-want-for-halloween-is-you
