@@ -4,12 +4,12 @@ title:  Fear and Laundry 2
 date:   2014-11-25
 comments: false
 image: fal2-cover.jpg
-applebooks_url: TBD
-googleplay_url: TBD
+applebooks_url: https://books.apple.com/us/book/fear-and-laundry-2/id6763402713
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Fear_and_Laundry_2?id=l03UEQAAQBAJ
 kindle_url: https://www.amazon.com/dp/B00Q6TNH9A/?tag=fearandlaun-20
 kobo_url: TBD
-nook_url: TBD
-smashwords_url: TBD
+nook_url: https://www.barnesandnoble.com/w/fear-and-laundry-2-elizabeth-myles/1150458954?ean=2940185469293
+smashwords_url: https://www.smashwords.com/books/view/2017721
 excerpt: /novels/fear-and-laundry-2/excerpt/
 collected: /collections/fear-and-laundry-parts-1-and-2/
 goodreads: https://www.goodreads.com/book/show/24367903-fear-and-laundry-2

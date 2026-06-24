@@ -3,12 +3,12 @@ layout: post
 title:  Fear and Laundry Parts 1 & 2
 date:   2021-04-01T00:00:00Z
 image: fal-set-cover.jpg
-applebooks_url: TBD
-googleplay_url: TBD
+applebooks_url: https://books.apple.com/us/book/fear-and-laundry-parts-1-2/id6776830448
+googleplay_url: https://play.google.com/store/books/details/Elizabeth_Myles_Fear_and_Laundry_Parts_1_2?id=tgnWEQAAQBAJ
 kindle_url: https://www.amazon.com/dp/B091G3JHBT/?tag=fearandlaun-20
 kobo_url: TBD
-nook_url: TBD
-smashwords_url: TBD
+nook_url: https://www.barnesandnoble.com/w/fear-and-laundry-parts-1-2-elizabeth-myles/1150458956?ean=2940185469309
+smashwords_url: https://www.smashwords.com/books/view/2020308
 excerpt: /novels/fear-and-laundry/excerpt/
 goodreads: https://www.goodreads.com/book/show/57984084-fear-and-laundry-parts-1-2
 year: 2021 (contains material originally published 2011-2014)
